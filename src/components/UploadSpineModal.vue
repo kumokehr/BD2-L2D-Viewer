@@ -5,15 +5,14 @@
   >
     <div class="relative bg-gray-900 p-4 rounded w-full max-w-lg">
       <button class="absolute top-2 right-3 cursor-pointer" @click="$emit('close')">✕</button>
-      <h2 class="text-lg font-bold mb-2">Upload Spine Files</h2>
+      <h2 class="text-lg font-bold mb-2">{{ t('uploadSpine.title') }}</h2>
       <p class="mb-2">
-        Select your <strong>.atlas</strong>, <strong>.skel</strong> or <strong>.json</strong> and related <strong>.png</strong> files.
-        Only Spine 4.1 files are supported.
+        {{ t('uploadSpine.description') }}
       </p>
       <input
         v-model="name"
         type="text"
-        placeholder="Character name"
+        :placeholder="t('uploadSpine.character_name')"
         class="bg-gray-700 text-white p-2 w-full mb-2 outline-none"
       />
       <div
@@ -30,8 +29,8 @@
           @change="onFiles"
         />
         <p class="mb-2">
-          Drag files here or
-          <span class="text-blue-400 underline cursor-pointer" @click="fileInput?.click()">choose files</span>
+          {{ t('uploadSpine.drag_here') }}
+          <span class="text-blue-400 underline cursor-pointer" @click="fileInput?.click()">{{ t('uploadSpine.choose_files') }}</span>
         </p>
         <div v-if="fileNames.length" class="text-sm break-words">{{ fileNames.join(', ') }}</div>
       </div>
@@ -43,7 +42,7 @@
           :disabled="loading"
         >
           <LoadingIcon v-if="loading" />
-          <span v-else>Upload</span>
+          <span v-else>{{ t('uploadSpine.upload') }}</span>
         </button>
       </div>
     </div>
@@ -53,6 +52,7 @@
 <script setup lang="ts">
 import { ref, computed } from 'vue'
 import { useCharacterStore } from '@/stores/characterStore'
+import { t } from '@/i18n'
 
 import LoadingIcon from '@/components/icons/LoadingIcon.vue'
 
@@ -80,7 +80,7 @@ function process() {
   message.value = ''
   success.value = false
   if (!name.value.trim()) {
-    message.value = 'Enter a name.'
+    message.value = t('uploadSpine.enter_name')
     return
   }
   const atlas = files.value.find(f => f.name.toLowerCase().endsWith('.atlas'))
@@ -88,7 +88,7 @@ function process() {
   const skel = files.value.find(f => f.name.toLowerCase().endsWith('.skel'))
   const textures = files.value.filter(f => f.name.toLowerCase().endsWith('.png'))
   if (!atlas || (!skel && !json)) {
-    message.value = 'Atlas and/or skeleton files are missing.'
+    message.value = t('uploadSpine.atlas_or_skel_missing')
     return
   }
   loading.value = true
@@ -100,7 +100,7 @@ function process() {
       const referenced = Array.from(atlasText.matchAll(regex)).map(m => m[1])
       const missing = referenced.filter(n => !textures.some(t => t.name === n))
       if (missing.length > 0) {
-        message.value = `Missing images: ${missing.join(', ')}`
+        message.value = t('uploadSpine.missing_images', { files: missing.join(', ') })
         loading.value = false
         return
       }
@@ -129,15 +129,15 @@ function process() {
       store.characters.unshift(char)
       store.selectedCharacterId = char.id
       success.value = true
-      message.value = 'Upload successfull.'
+      message.value = t('uploadSpine.success')
       loading.value = false
     } catch (err) {
-      message.value = `Unexpected error: ${(err as Error).message}`
+      message.value = t('uploadSpine.unexpected_error', { message: (err as Error).message })
       loading.value = false
     }
   }
   reader.onerror = () => {
-    message.value = 'Failed to read atlas.'
+    message.value = t('uploadSpine.failed_read_atlas')
     loading.value = false
   }
   reader.readAsText(atlas)

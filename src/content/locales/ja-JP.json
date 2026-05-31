@@ -1,0 +1,746 @@
+{
+  "100101": {
+    "charName": "ギュント",
+    "costumeName": "ルーゴ狩人"
+  },
+  "100201": {
+    "charName": "フレッド",
+    "costumeName": "ルーゴ守備隊"
+  },
+  "100301": {
+    "charName": "リシアンヌ",
+    "costumeName": "放浪の聖職者"
+  },
+  "100401": {
+    "charName": "レムナント",
+    "costumeName": "戦闘医師"
+  },
+  "100501": {
+    "charName": "ウィグル",
+    "costumeName": "爆弾狂"
+  },
+  "100502": {
+    "charName": "ウィグル",
+    "costumeName": "ボムインザフード"
+  },
+  "100601": {
+    "charName": "ルクレチア",
+    "costumeName": "誘惑の翼"
+  },
+  "100801": {
+    "charName": "ベルニー",
+    "costumeName": "義賊少女"
+  },
+  "101101": {
+    "charName": "セイル",
+    "costumeName": "悪魔の娘"
+  },
+  "101102": {
+    "charName": "セイル",
+    "costumeName": "B級アイドル"
+  },
+  "101103": {
+    "charName": "セイル",
+    "costumeName": "新入社員"
+  },
+  "101201": {
+    "charName": "ジェイデン",
+    "costumeName": "美少女信者"
+  },
+  "101202": {
+    "charName": "ジェイデン",
+    "costumeName": "漫画研究部"
+  },
+  "101301": {
+    "charName": "エマ",
+    "costumeName": "刺々しい不良"
+  },
+  "101302": {
+    "charName": "エマ",
+    "costumeName": "学校のクイーン"
+  },
+  "101401": {
+    "charName": "サメイ",
+    "costumeName": "優しき解放者"
+  },
+  "101402": {
+    "charName": "サメイ",
+    "costumeName": "優しき学生"
+  },
+  "101501": {
+    "charName": "クライ",
+    "costumeName": "開放された略奪者"
+  },
+  "101502": {
+    "charName": "クライ",
+    "costumeName": "乱暴な学生"
+  },
+  "101601": {
+    "charName": "セリア",
+    "costumeName": "呪いの星"
+  },
+  "103201": {
+    "charName": "カーソン",
+    "costumeName": "傭兵騎士"
+  },
+  "103301": {
+    "charName": "リディア",
+    "costumeName": "見習い槍兵"
+  },
+  "103401": {
+    "charName": "リジー",
+    "costumeName": "チビ狩人"
+  },
+  "103501": {
+    "charName": "ベアトリス",
+    "costumeName": "部族の大戦士"
+  },
+  "103601": {
+    "charName": "マリア",
+    "costumeName": "大魔術師"
+  },
+  "103701": {
+    "charName": "アリネス",
+    "costumeName": "活力の司祭"
+  },
+  "101101_c": {
+    "charName": "セイル",
+    "costumeName": "悪魔の娘 (Censored)"
+  },
+  "101102_c": {
+    "charName": "セイル",
+    "costumeName": "B級アイドル (Censored)"
+  },
+  "000101": {
+    "charName": "ラテル",
+    "costumeName": "薬草採集者"
+  },
+  "000102": {
+    "charName": "ラテル",
+    "costumeName": "ローンサバイバー"
+  },
+  "000103": {
+    "charName": "ラテル",
+    "costumeName": "ホムンクルス"
+  },
+  "000104": {
+    "charName": "ラテル",
+    "costumeName": "暗黒騎士"
+  },
+  "000105": {
+    "charName": "ラテル",
+    "costumeName": "復讐の誓い"
+  },
+  "000106": {
+    "charName": "ラテル",
+    "costumeName": "プールパーティ"
+  },
+  "000201": {
+    "charName": "ユースティア",
+    "costumeName": "鮮血の騎士"
+  },
+  "000202": {
+    "charName": "ユースティア",
+    "costumeName": "白い死神"
+  },
+  "000203": {
+    "charName": "ユースティア",
+    "costumeName": "血の貪食者"
+  },
+  "000204": {
+    "charName": "ユースティア",
+    "costumeName": "剣道部"
+  },
+  "000206": {
+    "charName": "ユースティア",
+    "costumeName": "プールパーティ"
+  },
+  "000296": {
+    "charName": "ユースティア",
+    "costumeName": "真夏の夢"
+  },
+  "000301": {
+    "charName": "シェラザード",
+    "costumeName": "蒼の魔女"
+  },
+  "000303": {
+    "charName": "シェラザード",
+    "costumeName": "魔法学校教授"
+  },
+  "000304": {
+    "charName": "シェラザード",
+    "costumeName": "コードネームS"
+  },
+  "000306": {
+    "charName": "シェラザード",
+    "costumeName": "プールパーティ"
+  },
+  "000401": {
+    "charName": "グレイ",
+    "costumeName": "霧の名射手"
+  },
+  "000402": {
+    "charName": "グレイ",
+    "costumeName": "B級社長"
+  },
+  "000403": {
+    "charName": "グレイ",
+    "costumeName": "先鋒隊"
+  },
+  "000406": {
+    "charName": "グレイ",
+    "costumeName": "プールパーティ"
+  },
+  "000501": {
+    "charName": "ルゥ",
+    "costumeName": "白猫"
+  },
+  "000502": {
+    "charName": "ルゥ",
+    "costumeName": "赤ずきん"
+  },
+  "000502_c": {
+    "charName": "ルゥ",
+    "costumeName": "赤ずきん (Censored)"
+  },
+  "000504": {
+    "charName": "ルゥ",
+    "costumeName": "自然の爪"
+  },
+  "000506": {
+    "charName": "ルゥ",
+    "costumeName": "ストレイ・キャット"
+  },
+  "000601": {
+    "charName": "オルシュタイン",
+    "costumeName": "魔物学者"
+  },
+  "000604": {
+    "charName": "オルシュタイン",
+    "costumeName": "青雲の道士"
+  },
+  "000701": {
+    "charName": "エクリプス",
+    "costumeName": "空間の魔女"
+  },
+  "000706": {
+    "charName": "エクリプス",
+    "costumeName": "ナイトメア・バニー"
+  },
+  "000707": {
+    "charName": "エクリプス",
+    "costumeName": "ビーチバカンス"
+  },
+  "000708": {
+    "charName": "エクリプス",
+    "costumeName": "夢の中の花嫁"
+  },
+  "000801": {
+    "charName": "ルヴィア",
+    "costumeName": "砂漠の棘"
+  },
+  "000804": {
+    "charName": "ルヴィア",
+    "costumeName": "海の女帝"
+  },
+  "000806": {
+    "charName": "ルヴィア",
+    "costumeName": "メイドネームC"
+  },
+  "000807": {
+    "charName": "ルヴィア",
+    "costumeName": "メイドビキニ"
+  },
+  "001001": {
+    "charName": "シルヴィア",
+    "costumeName": "砂漠の華"
+  },
+  "001002": {
+    "charName": "シルヴィア",
+    "costumeName": "剣后"
+  },
+  "001004": {
+    "charName": "シルヴィア",
+    "costumeName": "海軍隊長"
+  },
+  "001006": {
+    "charName": "シルヴィア",
+    "costumeName": "ビキニエージェント"
+  },
+  "001101": {
+    "charName": "テレーゼ",
+    "costumeName": "破壊の天使"
+  },
+  "001106": {
+    "charName": "テレーゼ",
+    "costumeName": "保健委員"
+  },
+  "001107": {
+    "charName": "テレーゼ",
+    "costumeName": "ビーチの天使"
+  },
+  "001197": {
+    "charName": "テレーゼ",
+    "costumeName": "ミルキービキニ"
+  },
+  "001201": {
+    "charName": "リアトリス",
+    "costumeName": "ロデブの星"
+  },
+  "001206": {
+    "charName": "リアトリス",
+    "costumeName": "ネオン・ストーカー"
+  },
+  "001207": {
+    "charName": "リアトリス",
+    "costumeName": "メイドネームR"
+  },
+  "002401": {
+    "charName": "ディアナ",
+    "costumeName": "未知の探求者"
+  },
+  "002403": {
+    "charName": "ディアナ",
+    "costumeName": "マジカル・イノベーター"
+  },
+  "002406": {
+    "charName": "ディアナ",
+    "costumeName": "アンチ・ディストピア"
+  },
+  "003001": {
+    "charName": "レイラ",
+    "costumeName": "想像の金床"
+  },
+  "003101": {
+    "charName": "エルピス",
+    "costumeName": "救いの手"
+  },
+  "003201": {
+    "charName": "ロエン",
+    "costumeName": "最後の希望"
+  },
+  "003202": {
+    "charName": "ロエン",
+    "costumeName": "陸上部 部員"
+  },
+  "003203": {
+    "charName": "ロエン",
+    "costumeName": "セレブリティ・バニー"
+  },
+  "003301": {
+    "charName": "ネブリス",
+    "costumeName": "迷宮の門番"
+  },
+  "003302": {
+    "charName": "ネブリス",
+    "costumeName": "ユルいライフガード"
+  },
+  "003303": {
+    "charName": "ネブリス",
+    "costumeName": "新入社員"
+  },
+  "003401": {
+    "charName": "モルフェア",
+    "costumeName": "ビーチバカンス"
+  },
+  "003402": {
+    "charName": "モルフェア",
+    "costumeName": "デイドリーム・バニー"
+  },
+  "003403": {
+    "charName": "モルフェア",
+    "costumeName": "使徒"
+  },
+  "003501": {
+    "charName": "神聖ユースティア",
+    "costumeName": "取り戻せし運命"
+  },
+  "003601": {
+    "charName": "オリビエ",
+    "costumeName": "信心の翼"
+  },
+  "003602": {
+    "charName": "オリビエ",
+    "costumeName": "使徒"
+  },
+  "003603": {
+    "charName": "オリビエ",
+    "costumeName": "堕ちた翼"
+  },
+  "003604": {
+    "charName": "オリビエ",
+    "costumeName": "伝説のOG"
+  },
+  "003701": {
+    "charName": "ブレイド",
+    "costumeName": "使徒"
+  },
+  "003702": {
+    "charName": "ブレイド",
+    "costumeName": "温泉剣客"
+  },
+  "003703": {
+    "charName": "ブレイド",
+    "costumeName": "公女"
+  },
+  "003801": {
+    "charName": "リベルタ",
+    "costumeName": "暗黒聖女"
+  },
+  "003802": {
+    "charName": "リベルタ",
+    "costumeName": "温泉管理人"
+  },
+  "003803": {
+    "charName": "リベルタ",
+    "costumeName": "ミラクル・ローズ"
+  },
+  "003892": {
+    "charName": "リベルタ",
+    "costumeName": "享楽探究者"
+  },
+  "003901": {
+    "charName": "ソーニャ",
+    "costumeName": "深裏の夢"
+  },
+  "003902": {
+    "charName": "ソーニャ",
+    "costumeName": "かぼちゃ売りの少女"
+  },
+  "004001": {
+    "charName": "ダリアン",
+    "costumeName": "啓示の夢"
+  },
+  "004002": {
+    "charName": "ダリアン",
+    "costumeName": "ビタースウィート・バニー"
+  },
+  "004101": {
+    "charName": "ティル",
+    "costumeName": "星光の守護者"
+  },
+  "004102": {
+    "charName": "ティル",
+    "costumeName": "イノセント・バニー"
+  },
+  "004201": {
+    "charName": "パレット",
+    "costumeName": "恐怖の夢"
+  },
+  "004202": {
+    "charName": "パレット",
+    "costumeName": "ミラクル・ヴァイオレット"
+  },
+  "020001": {
+    "charName": "エリス",
+    "costumeName": "有望な冒険家"
+  },
+  "020002": {
+    "charName": "エリス",
+    "costumeName": "あなただけの猫"
+  },
+  "020101": {
+    "charName": "ロキシー",
+    "costumeName": "尊敬される師匠"
+  },
+  "020102": {
+    "charName": "ロキシー",
+    "costumeName": "漏れ出る欲望"
+  },
+  "020201": {
+    "charName": "詠",
+    "costumeName": "穏やかな破壊者"
+  },
+  "020301": {
+    "charName": "夜桜",
+    "costumeName": "信念の拳"
+  },
+  "020401": {
+    "charName": "雪泉",
+    "costumeName": "雪花の舞"
+  },
+  "020501": {
+    "charName": "日影",
+    "costumeName": "優しき無情"
+  },
+  "020601": {
+    "charName": "ゴブリンスレイヤー",
+    "costumeName": "小鬼を殺す者"
+  },
+  "020701": {
+    "charName": "女神官",
+    "costumeName": "地母神の愛娘"
+  },
+  "020801": {
+    "charName": "妖精弓手",
+    "costumeName": "星風の娘"
+  },
+  "020901": {
+    "charName": "剣の乙女",
+    "costumeName": "至高神の大司教"
+  },
+  "021001": {
+    "charName": "斑鳩",
+    "costumeName": "清廉の炎"
+  },
+  "060301": {
+    "charName": "アレック",
+    "costumeName": "破壊の星"
+  },
+  "060302": {
+    "charName": "アレック",
+    "costumeName": "ソードブレーカー"
+  },
+  "060402": {
+    "charName": "セリア",
+    "costumeName": "大魔女の末裔"
+  },
+  "060403": {
+    "charName": "セリア",
+    "costumeName": "マスカレイド・バニー"
+  },
+  "060501": {
+    "charName": "アナスタシア",
+    "costumeName": "優しきメイド"
+  },
+  "060502": {
+    "charName": "アナスタシア",
+    "costumeName": "ファイアグラフィティ"
+  },
+  "060601": {
+    "charName": "レクリス",
+    "costumeName": "殺人人形"
+  },
+  "060602": {
+    "charName": "レクリス",
+    "costumeName": "アンドロイドクイーン"
+  },
+  "060701": {
+    "charName": "ラフィーナ",
+    "costumeName": "鋼のエンジン"
+  },
+  "060702": {
+    "charName": "ラフィーナ",
+    "costumeName": "コードネームA"
+  },
+  "060706": {
+    "charName": "ラフィーナ",
+    "costumeName": "ゲーム部"
+  },
+  "060801": {
+    "charName": "エリーゼ",
+    "costumeName": "愛しいレディ"
+  },
+  "060802": {
+    "charName": "エリーゼ",
+    "costumeName": "コードネーム O"
+  },
+  "061001": {
+    "charName": "ヘレナ",
+    "costumeName": "トップアイドル"
+  },
+  "061002": {
+    "charName": "ヘレナ",
+    "costumeName": "B級アイドル"
+  },
+  "061092": {
+    "charName": "ヘレナ",
+    "costumeName": "ライジング・スター"
+  },
+  "061101": {
+    "charName": "エレニール",
+    "costumeName": "貫く魔弓"
+  },
+  "061102": {
+    "charName": "エレニール",
+    "costumeName": "B級アイドル"
+  },
+  "061103": {
+    "charName": "エレニール",
+    "costumeName": "シャドウ・バニー"
+  },
+  "061302": {
+    "charName": "キュウビ",
+    "costumeName": "明月"
+  },
+  "061305": {
+    "charName": "キュウビ",
+    "costumeName": "サマーバカンス"
+  },
+  "061402": {
+    "charName": "ジェニス",
+    "costumeName": "ロビンフッド"
+  },
+  "061404": {
+    "charName": "ジェニス",
+    "costumeName": "水遊びの守護者"
+  },
+  "061492": {
+    "charName": "ジェニス",
+    "costumeName": "ストレンジャー・バニー"
+  },
+  "062001": {
+    "charName": "アンドリュー",
+    "costumeName": "忠実な執事"
+  },
+  "062002": {
+    "charName": "アンドリュー",
+    "costumeName": "スペシャリスト"
+  },
+  "063001": {
+    "charName": "イングリッド",
+    "costumeName": "カディスの弾丸"
+  },
+  "063301": {
+    "charName": "シンシア",
+    "costumeName": "酷寒の中の温もり"
+  },
+  "063401": {
+    "charName": "ジュリー",
+    "costumeName": "回復師"
+  },
+  "065102": {
+    "charName": "ユリ",
+    "costumeName": "白雷"
+  },
+  "065103": {
+    "charName": "ユリ",
+    "costumeName": "カムバックアイドル"
+  },
+  "065802": {
+    "charName": "ナルタス",
+    "costumeName": "名も無き道士"
+  },
+  "066401": {
+    "charName": "アンジェリカ",
+    "costumeName": "堕落の星"
+  },
+  "066402": {
+    "charName": "アンジェリカ",
+    "costumeName": "プールパーティ"
+  },
+  "066403": {
+    "charName": "アンジェリカ",
+    "costumeName": "ネオン・セイヴァー"
+  },
+  "066801": {
+    "charName": "レピテア",
+    "costumeName": "貪欲の星"
+  },
+  "066802": {
+    "charName": "レピテア",
+    "costumeName": "純白の祝福"
+  },
+  "066802_c": {
+    "charName": "レピテア",
+    "costumeName": "純白の祝福 (Censored)"
+  },
+  "066803": {
+    "charName": "レピテア",
+    "costumeName": "水遊びの妖精"
+  },
+  "066902": {
+    "charName": "グレイシア",
+    "costumeName": "アリス"
+  },
+  "066906": {
+    "charName": "グレイシア",
+    "costumeName": "風紀委員会"
+  },
+  "067002": {
+    "charName": "ヴェンタナ",
+    "costumeName": "スノーホワイト"
+  },
+  "067003": {
+    "charName": "ヴェンタナ",
+    "costumeName": "カムバックアイドル"
+  },
+  "067004": {
+    "charName": "ヴェンタナ",
+    "costumeName": "温泉修行人"
+  },
+  "067101": {
+    "charName": "グランヒルト",
+    "costumeName": "虚無の星"
+  },
+  "067102": {
+    "charName": "グランヒルト",
+    "costumeName": "カムバックアイドル"
+  },
+  "067103": {
+    "charName": "グランヒルト",
+    "costumeName": "サプライズゴースト"
+  },
+  "067201": {
+    "charName": "ベナカ",
+    "costumeName": "DJ"
+  },
+  "067202": {
+    "charName": "ベナカ",
+    "costumeName": "風の踊り子"
+  },
+  "067301": {
+    "charName": "レヴィア",
+    "costumeName": "陸上部 部長"
+  },
+  "067302": {
+    "charName": "レヴィア",
+    "costumeName": "嫉妬の夜"
+  },
+  "067303": {
+    "charName": "レヴィア",
+    "costumeName": "オーバーヒート"
+  },
+  "067401": {
+    "charName": "ミカエラ",
+    "costumeName": "浜辺の正義"
+  },
+  "067402": {
+    "charName": "ミカエラ",
+    "costumeName": "サインの女王"
+  },
+  "067403": {
+    "charName": "ミカエラ",
+    "costumeName": "大主教代行"
+  },
+  "067502": {
+    "charName": "ルベンシア",
+    "costumeName": "契約奪取者"
+  },
+  "067503": {
+    "charName": "ルベンシア",
+    "costumeName": "ワイルドドッグ"
+  },
+  "067601": {
+    "charName": "ウィルヘルミナ",
+    "costumeName": "鋼の君主"
+  },
+  "067603": {
+    "charName": "ウィルヘルミナ",
+    "costumeName": "ウォーターパークの女王"
+  },
+  "067604": {
+    "charName": "ウィルヘルミナ",
+    "costumeName": "フローズン・クイーン"
+  },
+  "067701": {
+    "charName": "グラナデ",
+    "costumeName": "浄化の巫女"
+  },
+  "067702": {
+    "charName": "グラナデ",
+    "costumeName": "グラティの女王"
+  },
+  "067801": {
+    "charName": "マモニル",
+    "costumeName": "終焉の夜"
+  },
+  "067803": {
+    "charName": "マモニル",
+    "costumeName": "ミラクル・マリン"
+  },
+  "minigame1": {
+    "charName": "ミニゲーム",
+    "costumeName": "Slap Slap Pop"
+  }
+}

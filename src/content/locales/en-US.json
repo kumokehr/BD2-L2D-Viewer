@@ -1,0 +1,746 @@
+{
+  "100101": {
+    "charName": "Gynt",
+    "costumeName": "Lugo Hunter"
+  },
+  "100201": {
+    "charName": "Fred",
+    "costumeName": "Lugo Defense Force"
+  },
+  "100301": {
+    "charName": "Lisianne",
+    "costumeName": "Wandering Priest"
+  },
+  "100401": {
+    "charName": "Remnunt",
+    "costumeName": "Combat Doctor"
+  },
+  "100501": {
+    "charName": "Wiggle",
+    "costumeName": "Bomb Fanatic"
+  },
+  "100502": {
+    "charName": "Wiggle",
+    "costumeName": "Bomb in the Hoodie"
+  },
+  "100601": {
+    "charName": "Lucrezia",
+    "costumeName": "Seductive Wings"
+  },
+  "100801": {
+    "charName": "Bernie",
+    "costumeName": "Righteous Raider Girl"
+  },
+  "101101": {
+    "charName": "Seir",
+    "costumeName": "Demon's Daughter"
+  },
+  "101102": {
+    "charName": "Seir",
+    "costumeName": "B-Rank Idol"
+  },
+  "101103": {
+    "charName": "Seir",
+    "costumeName": "New Hire"
+  },
+  "101201": {
+    "charName": "Jayden",
+    "costumeName": "Beautiful Girl Devotee"
+  },
+  "101202": {
+    "charName": "Jayden",
+    "costumeName": "Manga Research Club"
+  },
+  "101301": {
+    "charName": "Emma",
+    "costumeName": "Haggard Delinquent"
+  },
+  "101302": {
+    "charName": "Emma",
+    "costumeName": "School Queen"
+  },
+  "101401": {
+    "charName": "Samay",
+    "costumeName": "Kind Liberator"
+  },
+  "101402": {
+    "charName": "Samay",
+    "costumeName": "Kind Student"
+  },
+  "101501": {
+    "charName": "Kry",
+    "costumeName": "Liberated Marauder"
+  },
+  "101502": {
+    "charName": "Kry",
+    "costumeName": "Violent Student"
+  },
+  "101601": {
+    "charName": "Celia",
+    "costumeName": "The Curse"
+  },
+  "103201": {
+    "charName": "Carlson",
+    "costumeName": "The Mercenary Knight"
+  },
+  "103301": {
+    "charName": "Lydia",
+    "costumeName": "Apprentice Spearman"
+  },
+  "103401": {
+    "charName": "Rigenette",
+    "costumeName": "Little Hunter"
+  },
+  "103501": {
+    "charName": "Beatrice",
+    "costumeName": "The Mighty Warrior of the Tribe"
+  },
+  "103601": {
+    "charName": "Maria",
+    "costumeName": "Archmage"
+  },
+  "103701": {
+    "charName": "Arines",
+    "costumeName": "Priest of Vitality"
+  },
+  "101101_c": {
+    "charName": "Seir",
+    "costumeName": "Demon's Daughter (Censored)"
+  },
+  "101102_c": {
+    "charName": "Seir",
+    "costumeName": "B-Rank Idol (Censored)"
+  },
+  "000101": {
+    "charName": "Lathel",
+    "costumeName": "Herb Tracker"
+  },
+  "000102": {
+    "charName": "Lathel",
+    "costumeName": "Lonely Survivor"
+  },
+  "000103": {
+    "charName": "Lathel",
+    "costumeName": "Homunculus"
+  },
+  "000104": {
+    "charName": "Lathel",
+    "costumeName": "Dark Knight"
+  },
+  "000105": {
+    "charName": "Lathel",
+    "costumeName": "Promise of Vengance"
+  },
+  "000106": {
+    "charName": "Lathel",
+    "costumeName": "Pool Party"
+  },
+  "000201": {
+    "charName": "Justia",
+    "costumeName": "Knight of Blood"
+  },
+  "000202": {
+    "charName": "Justia",
+    "costumeName": "White Reaper"
+  },
+  "000203": {
+    "charName": "Justia",
+    "costumeName": "Blood Glutton"
+  },
+  "000204": {
+    "charName": "Justia",
+    "costumeName": "Kendo Club"
+  },
+  "000206": {
+    "charName": "Justia",
+    "costumeName": "Pool Party"
+  },
+  "000296": {
+    "charName": "Justia",
+    "costumeName": "Hot Summer Dream"
+  },
+  "000301": {
+    "charName": "Scheherazade",
+    "costumeName": "The Lapis Witch"
+  },
+  "000303": {
+    "charName": "Scheherazade",
+    "costumeName": "The Magic School Professor"
+  },
+  "000304": {
+    "charName": "Scheherazade",
+    "costumeName": "Code Name S"
+  },
+  "000306": {
+    "charName": "Scheherazade",
+    "costumeName": "Pool Party"
+  },
+  "000401": {
+    "charName": "Gray",
+    "costumeName": "The Sharpshooter of the Mist"
+  },
+  "000402": {
+    "charName": "Gray",
+    "costumeName": "B-Rank Manager"
+  },
+  "000403": {
+    "charName": "Gray",
+    "costumeName": "Vanguard"
+  },
+  "000406": {
+    "charName": "Gray",
+    "costumeName": "Pool Party"
+  },
+  "000501": {
+    "charName": "Rou",
+    "costumeName": "White Cat"
+  },
+  "000502": {
+    "charName": "Rou",
+    "costumeName": "Red Hat"
+  },
+  "000502_c": {
+    "charName": "Rou",
+    "costumeName": "Red Hat (Censored)"
+  },
+  "000504": {
+    "charName": "Rou",
+    "costumeName": "Nature's Claw"
+  },
+  "000506": {
+    "charName": "Rou",
+    "costumeName": "Stray Cat"
+  },
+  "000601": {
+    "charName": "Olstein",
+    "costumeName": "The Fiend Scholar"
+  },
+  "000604": {
+    "charName": "Olstein",
+    "costumeName": "Sage of Blue Clouds"
+  },
+  "000701": {
+    "charName": "Eclipse",
+    "costumeName": "Dimension Witch"
+  },
+  "000706": {
+    "charName": "Eclipse",
+    "costumeName": "Nightmare Bunny"
+  },
+  "000707": {
+    "charName": "Eclipse",
+    "costumeName": "Beach Vacation"
+  },
+  "000708": {
+    "charName": "Eclipse",
+    "costumeName": "Dream Bride"
+  },
+  "000801": {
+    "charName": "Rubia",
+    "costumeName": "Thorn of the Desert"
+  },
+  "000804": {
+    "charName": "Rubia",
+    "costumeName": "The Empress of the Ocean"
+  },
+  "000806": {
+    "charName": "Rubia",
+    "costumeName": "Maid Name C"
+  },
+  "000807": {
+    "charName": "Rubia",
+    "costumeName": "Maid Bikini"
+  },
+  "001001": {
+    "charName": "Sylvia",
+    "costumeName": "Desert Flower"
+  },
+  "001002": {
+    "charName": "Sylvia",
+    "costumeName": "The Sword Queen"
+  },
+  "001004": {
+    "charName": "Sylvia",
+    "costumeName": "Admiral"
+  },
+  "001006": {
+    "charName": "Sylvia",
+    "costumeName": "Bikini Agent"
+  },
+  "001101": {
+    "charName": "Teresse",
+    "costumeName": "Angel of Destruction"
+  },
+  "001106": {
+    "charName": "Teresse",
+    "costumeName": "Medical Club"
+  },
+  "001107": {
+    "charName": "Teresse",
+    "costumeName": "Beachside Angel"
+  },
+  "001197": {
+    "charName": "Teresse",
+    "costumeName": "Milky Bikini"
+  },
+  "001201": {
+    "charName": "Liatris",
+    "costumeName": "Rodev's Star"
+  },
+  "001206": {
+    "charName": "Liatris",
+    "costumeName": "Neon Stalker"
+  },
+  "001207": {
+    "charName": "Liatris",
+    "costumeName": "Maid Name R"
+  },
+  "002401": {
+    "charName": "Diana",
+    "costumeName": "Adventurer of the Unknown"
+  },
+  "002403": {
+    "charName": "Diana",
+    "costumeName": "Magical Innovator"
+  },
+  "002406": {
+    "charName": "Diana",
+    "costumeName": "Anti-dystopia"
+  },
+  "003001": {
+    "charName": "Layla",
+    "costumeName": "Anvil of Creation"
+  },
+  "003101": {
+    "charName": "Elpis",
+    "costumeName": "Hand of Salvation"
+  },
+  "003201": {
+    "charName": "Loen",
+    "costumeName": "Last Hope"
+  },
+  "003202": {
+    "charName": "Loen",
+    "costumeName": "Track and Field Team"
+  },
+  "003203": {
+    "charName": "Loen",
+    "costumeName": "Celebrity Bunny"
+  },
+  "003301": {
+    "charName": "Nebris",
+    "costumeName": "Labyrinth Gatekeeper"
+  },
+  "003302": {
+    "charName": "Nebris",
+    "costumeName": "Laid-back Lifeguard"
+  },
+  "003303": {
+    "charName": "Nebris",
+    "costumeName": "New Hire"
+  },
+  "003401": {
+    "charName": "Morpeah",
+    "costumeName": "Beach Vacation"
+  },
+  "003402": {
+    "charName": "Morpeah",
+    "costumeName": "Daydream Bunny"
+  },
+  "003403": {
+    "charName": "Morpeah",
+    "costumeName": "Apostle"
+  },
+  "003501": {
+    "charName": "Sacred Justia",
+    "costumeName": "Reclaimed Destiny"
+  },
+  "003601": {
+    "charName": "Olivier",
+    "costumeName": "Faithful Wings"
+  },
+  "003602": {
+    "charName": "Olivier",
+    "costumeName": "Apostle (Kelian)"
+  },
+  "003603": {
+    "charName": "Olivier",
+    "costumeName": "Fallen Wings"
+  },
+  "003604": {
+    "charName": "Olivier",
+    "costumeName": "Retired Legend"
+  },
+  "003701": {
+    "charName": "Blade",
+    "costumeName": "Apostle"
+  },
+  "003702": {
+    "charName": "Blade",
+    "costumeName": "Onsen Swordfighter"
+  },
+  "003703": {
+    "charName": "Blade",
+    "costumeName": "Young Lady"
+  },
+  "003801": {
+    "charName": "Liberta",
+    "costumeName": "Dark Saintess"
+  },
+  "003802": {
+    "charName": "Liberta",
+    "costumeName": "Onsen Manager"
+  },
+  "003803": {
+    "charName": "Liberta",
+    "costumeName": "Miracle Rose"
+  },
+  "003892": {
+    "charName": "Liberta",
+    "costumeName": "Hedonist"
+  },
+  "003901": {
+    "charName": "Sonya",
+    "costumeName": "Shadowed Dream"
+  },
+  "003902": {
+    "charName": "Sonya",
+    "costumeName": "Little Pumpkin Girl"
+  },
+  "004001": {
+    "charName": "Darian",
+    "costumeName": "Prophetic Dream"
+  },
+  "004002": {
+    "charName": "Darian",
+    "costumeName": "Bittersweet Bunny"
+  },
+  "004101": {
+    "charName": "Tyr",
+    "costumeName": "Starlight Guardian"
+  },
+  "004102": {
+    "charName": "Tyr",
+    "costumeName": "Innocent Bunny"
+  },
+  "004201": {
+    "charName": "Palette",
+    "costumeName": "Shattered Dream"
+  },
+  "004202": {
+    "charName": "Palette",
+    "costumeName": "Miracle Violet"
+  },
+  "020001": {
+    "charName": "Eris",
+    "costumeName": "Esteemed Adventurer"
+  },
+  "020002": {
+    "charName": "Eris",
+    "costumeName": "Your Very Own Cat"
+  },
+  "020101": {
+    "charName": "Roxy",
+    "costumeName": "Respected Master"
+  },
+  "020102": {
+    "charName": "Roxy",
+    "costumeName": "Emerging Desire"
+  },
+  "020201": {
+    "charName": "Yomi",
+    "costumeName": "Gentle Destroyer"
+  },
+  "020301": {
+    "charName": "Yozakura",
+    "costumeName": "Fist of Conviction"
+  },
+  "020401": {
+    "charName": "Yumi",
+    "costumeName": "Dancing Snowflake"
+  },
+  "020501": {
+    "charName": "Hikage",
+    "costumeName": "Kind Ruthlessness"
+  },
+  "020601": {
+    "charName": "Goblin Slayer",
+    "costumeName": "Orcbolg"
+  },
+  "020701": {
+    "charName": "Priestess",
+    "costumeName": "Earth Mother Believer"
+  },
+  "020801": {
+    "charName": "High Elf Archer",
+    "costumeName": "Daughter of Starwind"
+  },
+  "020901": {
+    "charName": "Sword Maiden",
+    "costumeName": "Supreme God Archbishop"
+  },
+  "021001": {
+    "charName": "Ikaruga",
+    "costumeName": "Noble Flame"
+  },
+  "060301": {
+    "charName": "Alec",
+    "costumeName": "The Destruction"
+  },
+  "060302": {
+    "charName": "Alec",
+    "costumeName": "Sword Breaker"
+  },
+  "060402": {
+    "charName": "Celia",
+    "costumeName": "Descendant of the Great Witch"
+  },
+  "060403": {
+    "charName": "Celia",
+    "costumeName": "Masquerade Bunny"
+  },
+  "060501": {
+    "charName": "Anastasia",
+    "costumeName": "Gentle Maid"
+  },
+  "060502": {
+    "charName": "Anastasia",
+    "costumeName": "Fire Graffiti"
+  },
+  "060601": {
+    "charName": "Lecliss",
+    "costumeName": "Killer Doll"
+  },
+  "060602": {
+    "charName": "Lecliss",
+    "costumeName": "Android Queen"
+  },
+  "060701": {
+    "charName": "Rafina",
+    "costumeName": "Steel Engine"
+  },
+  "060702": {
+    "charName": "Rafina",
+    "costumeName": "Code Name A"
+  },
+  "060706": {
+    "charName": "Rafina",
+    "costumeName": "Game Club"
+  },
+  "060801": {
+    "charName": "Elise",
+    "costumeName": "Lovely Lady"
+  },
+  "060802": {
+    "charName": "Elise",
+    "costumeName": "Code Name O"
+  },
+  "061001": {
+    "charName": "Helena",
+    "costumeName": "Top Idol"
+  },
+  "061002": {
+    "charName": "Helena",
+    "costumeName": "B-Rank Idol"
+  },
+  "061092": {
+    "charName": "Helena",
+    "costumeName": "Rising Star"
+  },
+  "061101": {
+    "charName": "Eleaneer",
+    "costumeName": "Piercing Magic Bow"
+  },
+  "061102": {
+    "charName": "Eleaneer",
+    "costumeName": "B-Rank Idol"
+  },
+  "061103": {
+    "charName": "Eleaneer",
+    "costumeName": "Shadow Bunny"
+  },
+  "061302": {
+    "charName": "Dalvi",
+    "costumeName": "Bright Moon"
+  },
+  "061305": {
+    "charName": "Dalvi",
+    "costumeName": "Summer Vacation"
+  },
+  "061402": {
+    "charName": "Zenith",
+    "costumeName": "Robin Hood"
+  },
+  "061404": {
+    "charName": "Zenith",
+    "costumeName": "Poolside Guardian"
+  },
+  "061492": {
+    "charName": "Zenith",
+    "costumeName": "Stranger Bunny"
+  },
+  "062001": {
+    "charName": "Andrew",
+    "costumeName": "Loyal Butler"
+  },
+  "062002": {
+    "charName": "Andrew",
+    "costumeName": "Specialist"
+  },
+  "063001": {
+    "charName": "Ingrid",
+    "costumeName": "Kardis' Bullet"
+  },
+  "063301": {
+    "charName": "Cynthia",
+    "costumeName": "Warmth within the Severe Cold"
+  },
+  "063401": {
+    "charName": "Julie",
+    "costumeName": "Healer"
+  },
+  "065102": {
+    "charName": "Yuri",
+    "costumeName": "Whitebolt"
+  },
+  "065103": {
+    "charName": "Yuri",
+    "costumeName": "Comeback Idol"
+  },
+  "065802": {
+    "charName": "Nartas",
+    "costumeName": "Anonymous Sage"
+  },
+  "066401": {
+    "charName": "Angelica",
+    "costumeName": "The Fallen"
+  },
+  "066402": {
+    "charName": "Angelica",
+    "costumeName": "Pool Party"
+  },
+  "066403": {
+    "charName": "Angelica",
+    "costumeName": "Neon Savior"
+  },
+  "066801": {
+    "charName": "Refithea",
+    "costumeName": "The Gluttonous"
+  },
+  "066802": {
+    "charName": "Refithea",
+    "costumeName": "Pure White Blessing"
+  },
+  "066802_c": {
+    "charName": "Refithea",
+    "costumeName": "Pure White Blessing (Censored)"
+  },
+  "066803": {
+    "charName": "Refithea",
+    "costumeName": "Poolside Fairy"
+  },
+  "066902": {
+    "charName": "Glacia",
+    "costumeName": "Alice"
+  },
+  "066906": {
+    "charName": "Glacia",
+    "costumeName": "Disciplinary Committee"
+  },
+  "067002": {
+    "charName": "Ventana",
+    "costumeName": "Snow White"
+  },
+  "067003": {
+    "charName": "Ventana",
+    "costumeName": "Comeback Idol"
+  },
+  "067004": {
+    "charName": "Ventana",
+    "costumeName": "Onsen Practitioner"
+  },
+  "067101": {
+    "charName": "Granhildr",
+    "costumeName": "The Void"
+  },
+  "067102": {
+    "charName": "Granhildr",
+    "costumeName": "Comeback Idol"
+  },
+  "067103": {
+    "charName": "Granhildr",
+    "costumeName": "Boo Ghost"
+  },
+  "067201": {
+    "charName": "Venaka",
+    "costumeName": "DJ"
+  },
+  "067202": {
+    "charName": "Venaka",
+    "costumeName": "Wind Dancer"
+  },
+  "067301": {
+    "charName": "Levia",
+    "costumeName": "Track and Field Captain"
+  },
+  "067302": {
+    "charName": "Levia",
+    "costumeName": "Night of Jealousy"
+  },
+  "067303": {
+    "charName": "Levia",
+    "costumeName": "Overheat"
+  },
+  "067401": {
+    "charName": "Michaela",
+    "costumeName": "Beachside Justice"
+  },
+  "067402": {
+    "charName": "Michaela",
+    "costumeName": "Queen of Signatures"
+  },
+  "067403": {
+    "charName": "Michaela",
+    "costumeName": "Acting Archbishop"
+  },
+  "067502": {
+    "charName": "Luvencia",
+    "costumeName": "Deal Snatcher"
+  },
+  "067503": {
+    "charName": "Luvencia",
+    "costumeName": "Wild Dog"
+  },
+  "067601": {
+    "charName": "Wilhelmina",
+    "costumeName": "Iron Monarch"
+  },
+  "067603": {
+    "charName": "Wilhelmina",
+    "costumeName": "Water Park Queen"
+  },
+  "067604": {
+    "charName": "Wilhelmina",
+    "costumeName": "Frozen Queen"
+  },
+  "067701": {
+    "charName": "Granadair",
+    "costumeName": "Shrine Maiden of Purification"
+  },
+  "067702": {
+    "charName": "Granadair",
+    "costumeName": "Queen of Gluttis"
+  },
+  "067801": {
+    "charName": "Mamonir",
+    "costumeName": "Night of Death"
+  },
+  "067803": {
+    "charName": "Mamonir",
+    "costumeName": "Miracle Marine"
+  },
+  "minigame1": {
+    "charName": "Minigame",
+    "costumeName": "Slap Slap Pop"
+  }
+}

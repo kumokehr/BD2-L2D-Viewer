@@ -1,0 +1,746 @@
+{
+  "100101": {
+    "charName": "귄트",
+    "costumeName": "루고 사냥꾼"
+  },
+  "100201": {
+    "charName": "프레드",
+    "costumeName": "루고 수비대"
+  },
+  "100301": {
+    "charName": "리시안느",
+    "costumeName": "방랑 성직자"
+  },
+  "100401": {
+    "charName": "램넌트",
+    "costumeName": "전투 의사"
+  },
+  "100501": {
+    "charName": "위글",
+    "costumeName": "폭탄광"
+  },
+  "100502": {
+    "charName": "위글",
+    "costumeName": "밤 인 더 후드"
+  },
+  "100601": {
+    "charName": "루크레치아",
+    "costumeName": "유혹의 날개"
+  },
+  "100801": {
+    "charName": "베르니",
+    "costumeName": "의적 소녀"
+  },
+  "101101": {
+    "charName": "세이르",
+    "costumeName": "악마의 딸"
+  },
+  "101102": {
+    "charName": "세이르",
+    "costumeName": "B급 아이돌"
+  },
+  "101103": {
+    "charName": "세이르",
+    "costumeName": "신입 사원"
+  },
+  "101201": {
+    "charName": "제이든",
+    "costumeName": "미소녀 신봉자"
+  },
+  "101202": {
+    "charName": "제이든",
+    "costumeName": "만화 연구부"
+  },
+  "101301": {
+    "charName": "엠마",
+    "costumeName": "까칠한 불량아"
+  },
+  "101302": {
+    "charName": "엠마",
+    "costumeName": "학교의 여왕"
+  },
+  "101401": {
+    "charName": "사메이",
+    "costumeName": "다정한 해방자"
+  },
+  "101402": {
+    "charName": "사메이",
+    "costumeName": "상냥한 학생"
+  },
+  "101501": {
+    "charName": "크라이",
+    "costumeName": "해방된 약탈자"
+  },
+  "101502": {
+    "charName": "크라이",
+    "costumeName": "난폭한 학생"
+  },
+  "101601": {
+    "charName": "셀리아",
+    "costumeName": "저주의 별"
+  },
+  "103201": {
+    "charName": "칼슨",
+    "costumeName": "용병 기사"
+  },
+  "103301": {
+    "charName": "리디아",
+    "costumeName": "견습 창병"
+  },
+  "103401": {
+    "charName": "리즈넷",
+    "costumeName": "꼬마 사냥꾼"
+  },
+  "103501": {
+    "charName": "베아트리체",
+    "costumeName": "부족의 대전사"
+  },
+  "103601": {
+    "charName": "마리아",
+    "costumeName": "대마법사"
+  },
+  "103701": {
+    "charName": "아리네스",
+    "costumeName": "활력의 사제"
+  },
+  "101101_c": {
+    "charName": "세이르",
+    "costumeName": "악마의 딸 (Censored)"
+  },
+  "101102_c": {
+    "charName": "세이르",
+    "costumeName": "B급 아이돌 (Censored)"
+  },
+  "000101": {
+    "charName": "라텔",
+    "costumeName": "약초 추적자"
+  },
+  "000102": {
+    "charName": "라텔",
+    "costumeName": "론리 서바이버"
+  },
+  "000103": {
+    "charName": "라텔",
+    "costumeName": "호문쿨루스"
+  },
+  "000104": {
+    "charName": "라텔",
+    "costumeName": "암흑 기사"
+  },
+  "000105": {
+    "charName": "라텔",
+    "costumeName": "복수의 맹세"
+  },
+  "000106": {
+    "charName": "라텔",
+    "costumeName": "풀 파티"
+  },
+  "000201": {
+    "charName": "유스티아",
+    "costumeName": "피의 기사"
+  },
+  "000202": {
+    "charName": "유스티아",
+    "costumeName": "하얀 사신"
+  },
+  "000203": {
+    "charName": "유스티아",
+    "costumeName": "피의 탐식자"
+  },
+  "000204": {
+    "charName": "유스티아",
+    "costumeName": "검도부"
+  },
+  "000206": {
+    "charName": "유스티아",
+    "costumeName": "풀 파티"
+  },
+  "000296": {
+    "charName": "유스티아",
+    "costumeName": "한여름의 꿈"
+  },
+  "000301": {
+    "charName": "세헤라자드",
+    "costumeName": "푸른 마녀"
+  },
+  "000303": {
+    "charName": "세헤라자드",
+    "costumeName": "마법학교 교수"
+  },
+  "000304": {
+    "charName": "세헤라자드",
+    "costumeName": "코드네임 S"
+  },
+  "000306": {
+    "charName": "세헤라자드",
+    "costumeName": "풀 파티"
+  },
+  "000401": {
+    "charName": "그레이",
+    "costumeName": "안개의 명사수"
+  },
+  "000402": {
+    "charName": "그레이",
+    "costumeName": "B급 사장"
+  },
+  "000403": {
+    "charName": "그레이",
+    "costumeName": "선봉장"
+  },
+  "000406": {
+    "charName": "그레이",
+    "costumeName": "풀 파티"
+  },
+  "000501": {
+    "charName": "루",
+    "costumeName": "하얀 고양이"
+  },
+  "000502": {
+    "charName": "루",
+    "costumeName": "빨간모자"
+  },
+  "000502_c": {
+    "charName": "루",
+    "costumeName": "빨간모자 (Censored)"
+  },
+  "000504": {
+    "charName": "루",
+    "costumeName": "자연의 발톱"
+  },
+  "000506": {
+    "charName": "루",
+    "costumeName": "스트레이 캣"
+  },
+  "000601": {
+    "charName": "올슈타인",
+    "costumeName": "마물학자"
+  },
+  "000604": {
+    "charName": "올슈타인",
+    "costumeName": "청운의 도사"
+  },
+  "000701": {
+    "charName": "이클립스",
+    "costumeName": "공간의 마녀"
+  },
+  "000706": {
+    "charName": "이클립스",
+    "costumeName": "나이트메어 바니"
+  },
+  "000707": {
+    "charName": "이클립스",
+    "costumeName": "비치 바캉스"
+  },
+  "000708": {
+    "charName": "이클립스",
+    "costumeName": "꿈속의 신부"
+  },
+  "000801": {
+    "charName": "루비아",
+    "costumeName": "사막의 가시"
+  },
+  "000804": {
+    "charName": "루비아",
+    "costumeName": "바다의 여제"
+  },
+  "000806": {
+    "charName": "루비아",
+    "costumeName": "메이드네임 C"
+  },
+  "000807": {
+    "charName": "루비아",
+    "costumeName": "메이드 비키니"
+  },
+  "001001": {
+    "charName": "실비아",
+    "costumeName": "사막의 꽃"
+  },
+  "001002": {
+    "charName": "실비아",
+    "costumeName": "검후"
+  },
+  "001004": {
+    "charName": "실비아",
+    "costumeName": "해군 대장"
+  },
+  "001006": {
+    "charName": "실비아",
+    "costumeName": "비키니 에이전트"
+  },
+  "001101": {
+    "charName": "테레제",
+    "costumeName": "파괴의 천사"
+  },
+  "001106": {
+    "charName": "테레제",
+    "costumeName": "양호부"
+  },
+  "001107": {
+    "charName": "테레제",
+    "costumeName": "해변의 천사"
+  },
+  "001197": {
+    "charName": "테레제",
+    "costumeName": "밀키 비키니"
+  },
+  "001201": {
+    "charName": "리아트리스",
+    "costumeName": "로데브의 별"
+  },
+  "001206": {
+    "charName": "리아트리스",
+    "costumeName": "네온 스토커"
+  },
+  "001207": {
+    "charName": "리아트리스",
+    "costumeName": "메이드네임 R"
+  },
+  "002401": {
+    "charName": "디아나",
+    "costumeName": "미지의 탐구자"
+  },
+  "002403": {
+    "charName": "디아나",
+    "costumeName": "매지컬 이노베이터"
+  },
+  "002406": {
+    "charName": "디아나",
+    "costumeName": "안티 디스토피아"
+  },
+  "003001": {
+    "charName": "레일라",
+    "costumeName": "창조의 모루"
+  },
+  "003101": {
+    "charName": "엘피스",
+    "costumeName": "구원의 손길"
+  },
+  "003201": {
+    "charName": "로엔",
+    "costumeName": "마지막 희망"
+  },
+  "003202": {
+    "charName": "로엔",
+    "costumeName": "육상부 부원"
+  },
+  "003203": {
+    "charName": "로엔",
+    "costumeName": "셀레브리티 바니"
+  },
+  "003301": {
+    "charName": "네브리스",
+    "costumeName": "미궁의 문지기"
+  },
+  "003302": {
+    "charName": "네브리스",
+    "costumeName": "느슨한 라이프 가드"
+  },
+  "003303": {
+    "charName": "네브리스",
+    "costumeName": "신입 사원"
+  },
+  "003401": {
+    "charName": "모르페아",
+    "costumeName": "비치 바캉스"
+  },
+  "003402": {
+    "charName": "모르페아",
+    "costumeName": "데이드림 바니"
+  },
+  "003403": {
+    "charName": "모르페아",
+    "costumeName": "사도"
+  },
+  "003501": {
+    "charName": "신성 유스티아",
+    "costumeName": "되찾은 운명"
+  },
+  "003601": {
+    "charName": "올리비에",
+    "costumeName": "신실의 날개"
+  },
+  "003602": {
+    "charName": "올리비에",
+    "costumeName": "사도"
+  },
+  "003603": {
+    "charName": "올리비에",
+    "costumeName": "타락한 날개"
+  },
+  "003604": {
+    "charName": "올리비에",
+    "costumeName": "은퇴한 전설"
+  },
+  "003701": {
+    "charName": "블레이드",
+    "costumeName": "사도"
+  },
+  "003702": {
+    "charName": "블레이드",
+    "costumeName": "온천 검객"
+  },
+  "003703": {
+    "charName": "블레이드",
+    "costumeName": "소공녀"
+  },
+  "003801": {
+    "charName": "리베르타",
+    "costumeName": "암흑 성녀"
+  },
+  "003802": {
+    "charName": "리베르타",
+    "costumeName": "온천 관리인"
+  },
+  "003803": {
+    "charName": "리베르타",
+    "costumeName": "미라클 로즈"
+  },
+  "003892": {
+    "charName": "리베르타",
+    "costumeName": "쾌락 추구자"
+  },
+  "003901": {
+    "charName": "소냐",
+    "costumeName": "이면의 꿈"
+  },
+  "003902": {
+    "charName": "소냐",
+    "costumeName": "호박팔이 소녀"
+  },
+  "004001": {
+    "charName": "다리안",
+    "costumeName": "계시의 꿈"
+  },
+  "004002": {
+    "charName": "다리안",
+    "costumeName": "비터스윗 바니"
+  },
+  "004101": {
+    "charName": "티르",
+    "costumeName": "별빛의 수호자"
+  },
+  "004102": {
+    "charName": "티르",
+    "costumeName": "이노센트 바니"
+  },
+  "004201": {
+    "charName": "팔레트",
+    "costumeName": "공포의 꿈"
+  },
+  "004202": {
+    "charName": "팔레트",
+    "costumeName": "미라클 바이올렛"
+  },
+  "020001": {
+    "charName": "에리스",
+    "costumeName": "촉망받는 모험가"
+  },
+  "020002": {
+    "charName": "에리스",
+    "costumeName": "당신만의 고양이"
+  },
+  "020101": {
+    "charName": "록시",
+    "costumeName": "존경받는 스승"
+  },
+  "020102": {
+    "charName": "록시",
+    "costumeName": "새어 나온 욕망"
+  },
+  "020201": {
+    "charName": "요미",
+    "costumeName": "온화한 파괴자"
+  },
+  "020301": {
+    "charName": "요자쿠라",
+    "costumeName": "신념의 주먹"
+  },
+  "020401": {
+    "charName": "유미",
+    "costumeName": "눈꽃의 춤"
+  },
+  "020501": {
+    "charName": "히카게",
+    "costumeName": "상냥한 무정"
+  },
+  "020601": {
+    "charName": "고블린 슬레이어",
+    "costumeName": "소귀 살해자"
+  },
+  "020701": {
+    "charName": "여신관",
+    "costumeName": "지모신의 사제"
+  },
+  "020801": {
+    "charName": "엘프 궁수",
+    "costumeName": "별바람의 딸"
+  },
+  "020901": {
+    "charName": "검의 처녀",
+    "costumeName": "지고신의 대주교"
+  },
+  "021001": {
+    "charName": "이카루가",
+    "costumeName": "청렴한 불꽃"
+  },
+  "060301": {
+    "charName": "알렉",
+    "costumeName": "파괴의 별"
+  },
+  "060302": {
+    "charName": "알렉",
+    "costumeName": "소드 브레이커"
+  },
+  "060402": {
+    "charName": "셀리아",
+    "costumeName": "대마녀의 후예"
+  },
+  "060403": {
+    "charName": "셀리아",
+    "costumeName": "마스커레이드 바니"
+  },
+  "060501": {
+    "charName": "아나스타샤",
+    "costumeName": "상냥한 메이드"
+  },
+  "060502": {
+    "charName": "아나스타샤",
+    "costumeName": "파이어 그라피티"
+  },
+  "060601": {
+    "charName": "레클리스",
+    "costumeName": "살인 인형"
+  },
+  "060602": {
+    "charName": "레클리스",
+    "costumeName": "안드로이드 퀸"
+  },
+  "060701": {
+    "charName": "라피나",
+    "costumeName": "강철엔진"
+  },
+  "060702": {
+    "charName": "라피나",
+    "costumeName": "코드네임 A"
+  },
+  "060706": {
+    "charName": "라피나",
+    "costumeName": "게임부"
+  },
+  "060801": {
+    "charName": "엘리제",
+    "costumeName": "사랑스러운 아가씨"
+  },
+  "060802": {
+    "charName": "엘리제",
+    "costumeName": "코드네임 O"
+  },
+  "061001": {
+    "charName": "헬레나",
+    "costumeName": "톱 아이돌"
+  },
+  "061002": {
+    "charName": "헬레나",
+    "costumeName": "B급 아이돌"
+  },
+  "061092": {
+    "charName": "헬레나",
+    "costumeName": "라이징 스타"
+  },
+  "061101": {
+    "charName": "에레니르",
+    "costumeName": "꿰뚫는 마궁"
+  },
+  "061102": {
+    "charName": "에레니르",
+    "costumeName": "B급 아이돌"
+  },
+  "061103": {
+    "charName": "에레니르",
+    "costumeName": "쉐도우 바니"
+  },
+  "061302": {
+    "charName": "달비",
+    "costumeName": "명월"
+  },
+  "061305": {
+    "charName": "달비",
+    "costumeName": "여름휴가"
+  },
+  "061402": {
+    "charName": "제니스",
+    "costumeName": "로빈 후드"
+  },
+  "061404": {
+    "charName": "제니스",
+    "costumeName": "물놀이 수호자"
+  },
+  "061492": {
+    "charName": "제니스",
+    "costumeName": "스트레인저 바니"
+  },
+  "062001": {
+    "charName": "앤드류",
+    "costumeName": "충직한 집사"
+  },
+  "062002": {
+    "charName": "앤드류",
+    "costumeName": "스페셜리스트"
+  },
+  "063001": {
+    "charName": "잉그리드",
+    "costumeName": "카디스의 탄환"
+  },
+  "063301": {
+    "charName": "신시아",
+    "costumeName": "혹한 속의 온기"
+  },
+  "063401": {
+    "charName": "줄리",
+    "costumeName": "회복사"
+  },
+  "065102": {
+    "charName": "유리",
+    "costumeName": "백뢰"
+  },
+  "065103": {
+    "charName": "유리",
+    "costumeName": "컴백 아이돌"
+  },
+  "065802": {
+    "charName": "나르타스",
+    "costumeName": "무명도사"
+  },
+  "066401": {
+    "charName": "안젤리카",
+    "costumeName": "타락의 별"
+  },
+  "066402": {
+    "charName": "안젤리카",
+    "costumeName": "풀 파티"
+  },
+  "066403": {
+    "charName": "안젤리카",
+    "costumeName": "네온 세이비어"
+  },
+  "066801": {
+    "charName": "레피테아",
+    "costumeName": "탐욕의 별"
+  },
+  "066802": {
+    "charName": "레피테아",
+    "costumeName": "새하얀 축복"
+  },
+  "066802_c": {
+    "charName": "레피테아",
+    "costumeName": "새하얀 축복 (Censored)"
+  },
+  "066803": {
+    "charName": "레피테아",
+    "costumeName": "물놀이 요정"
+  },
+  "066902": {
+    "charName": "글레이시아",
+    "costumeName": "앨리스"
+  },
+  "066906": {
+    "charName": "글레이시아",
+    "costumeName": "선도부"
+  },
+  "067002": {
+    "charName": "벤타나",
+    "costumeName": "백설"
+  },
+  "067003": {
+    "charName": "벤타나",
+    "costumeName": "컴백 아이돌"
+  },
+  "067004": {
+    "charName": "벤타나",
+    "costumeName": "온천 수행자"
+  },
+  "067101": {
+    "charName": "그란힐트",
+    "costumeName": "허무의 별"
+  },
+  "067102": {
+    "charName": "그란힐트",
+    "costumeName": "컴백 아이돌"
+  },
+  "067103": {
+    "charName": "그란힐트",
+    "costumeName": "깜짝 유령"
+  },
+  "067201": {
+    "charName": "베나카",
+    "costumeName": "DJ"
+  },
+  "067202": {
+    "charName": "베나카",
+    "costumeName": "바람의 무희"
+  },
+  "067301": {
+    "charName": "레비아",
+    "costumeName": "육상부 부장"
+  },
+  "067302": {
+    "charName": "레비아",
+    "costumeName": "시기의 밤"
+  },
+  "067303": {
+    "charName": "레비아",
+    "costumeName": "오버히트"
+  },
+  "067401": {
+    "charName": "미카엘라",
+    "costumeName": "해변의 정의"
+  },
+  "067402": {
+    "charName": "미카엘라",
+    "costumeName": "서명의 여왕"
+  },
+  "067403": {
+    "charName": "미카엘라",
+    "costumeName": "거룩한 자"
+  },
+  "067502": {
+    "charName": "루벤시아",
+    "costumeName": "인감 탈취자"
+  },
+  "067503": {
+    "charName": "루벤시아",
+    "costumeName": "와일드독"
+  },
+  "067601": {
+    "charName": "빌헬미나",
+    "costumeName": "강철의 군주"
+  },
+  "067603": {
+    "charName": "빌헬미나",
+    "costumeName": "워터파크의 여왕"
+  },
+  "067604": {
+    "charName": "빌헬미나",
+    "costumeName": "프로즌 퀸"
+  },
+  "067701": {
+    "charName": "그라나데",
+    "costumeName": "정화의 무녀"
+  },
+  "067702": {
+    "charName": "그라나데",
+    "costumeName": "글러티의 여왕"
+  },
+  "067801": {
+    "charName": "마모니르",
+    "costumeName": "죽음의 밤"
+  },
+  "067803": {
+    "charName": "마모니르",
+    "costumeName": "미라클 마린"
+  },
+  "minigame1": {
+    "charName": "미니게임",
+    "costumeName": "Slap Slap Pop"
+  }
+}

@@ -1,0 +1,746 @@
+{
+  "100101": {
+    "charName": "君特",
+    "costumeName": "卢戈猎人"
+  },
+  "100201": {
+    "charName": "弗雷德",
+    "costumeName": "卢戈卫队"
+  },
+  "100301": {
+    "charName": "莉西安",
+    "costumeName": "流浪神职者"
+  },
+  "100401": {
+    "charName": "雷南特",
+    "costumeName": "战斗医生"
+  },
+  "100501": {
+    "charName": "威格",
+    "costumeName": "炸弹狂"
+  },
+  "100502": {
+    "charName": "威格",
+    "costumeName": "炸弹帽衫"
+  },
+  "100601": {
+    "charName": "卢克雷齐亚",
+    "costumeName": "诱惑之翼"
+  },
+  "100801": {
+    "charName": "维尔尼",
+    "costumeName": "侠盗少女"
+  },
+  "101101": {
+    "charName": "赛尔",
+    "costumeName": "恶魔之女"
+  },
+  "101102": {
+    "charName": "赛尔",
+    "costumeName": "B级偶像"
+  },
+  "101103": {
+    "charName": "赛尔",
+    "costumeName": "新进员工"
+  },
+  "101201": {
+    "charName": "杰登",
+    "costumeName": "美少女信奉者"
+  },
+  "101202": {
+    "charName": "杰登",
+    "costumeName": "漫画研究社"
+  },
+  "101301": {
+    "charName": "艾玛",
+    "costumeName": "麻烦问题儿童"
+  },
+  "101302": {
+    "charName": "艾玛",
+    "costumeName": "校园女王"
+  },
+  "101401": {
+    "charName": "莎美",
+    "costumeName": "深情解放者"
+  },
+  "101402": {
+    "charName": "莎美",
+    "costumeName": "和善学生"
+  },
+  "101501": {
+    "charName": "克莱",
+    "costumeName": "解放掠夺者"
+  },
+  "101502": {
+    "charName": "克莱",
+    "costumeName": "粗暴学生"
+  },
+  "101601": {
+    "charName": "西利亚",
+    "costumeName": "诅咒之星"
+  },
+  "103201": {
+    "charName": "卡森",
+    "costumeName": "佣兵骑士"
+  },
+  "103301": {
+    "charName": "黎迪雅",
+    "costumeName": "见习枪兵"
+  },
+  "103401": {
+    "charName": "莉兹内",
+    "costumeName": "小猎人"
+  },
+  "103501": {
+    "charName": "比阿特丽丝",
+    "costumeName": "部族大战士"
+  },
+  "103601": {
+    "charName": "玛丽亚",
+    "costumeName": "大魔法师"
+  },
+  "103701": {
+    "charName": "阿里内斯",
+    "costumeName": "活力祭司"
+  },
+  "101101_c": {
+    "charName": "赛尔",
+    "costumeName": "恶魔之女 (Censored)"
+  },
+  "101102_c": {
+    "charName": "赛尔",
+    "costumeName": "B级偶像 (Censored)"
+  },
+  "000101": {
+    "charName": "拉德尔",
+    "costumeName": "草药猎人"
+  },
+  "000102": {
+    "charName": "拉德尔",
+    "costumeName": "孤独生还者"
+  },
+  "000103": {
+    "charName": "拉德尔",
+    "costumeName": "霍尔蒙克斯"
+  },
+  "000104": {
+    "charName": "拉德尔",
+    "costumeName": "暗黑骑士"
+  },
+  "000105": {
+    "charName": "拉德尔",
+    "costumeName": "复仇的誓言"
+  },
+  "000106": {
+    "charName": "拉德尔",
+    "costumeName": "泳池派对"
+  },
+  "000201": {
+    "charName": "悠丝缇亚",
+    "costumeName": "血骑士"
+  },
+  "000202": {
+    "charName": "悠丝缇亚",
+    "costumeName": "皎洁死神"
+  },
+  "000203": {
+    "charName": "悠丝缇亚",
+    "costumeName": "血之贪食者"
+  },
+  "000204": {
+    "charName": "悠丝缇亚",
+    "costumeName": "剑道社"
+  },
+  "000206": {
+    "charName": "悠丝缇亚",
+    "costumeName": "泳池派对"
+  },
+  "000296": {
+    "charName": "悠丝缇亚",
+    "costumeName": "仲夏之梦"
+  },
+  "000301": {
+    "charName": "莎赫拉查德",
+    "costumeName": "苍蓝魔女"
+  },
+  "000303": {
+    "charName": "莎赫拉查德",
+    "costumeName": "魔法学校教授"
+  },
+  "000304": {
+    "charName": "莎赫拉查德",
+    "costumeName": "代号S"
+  },
+  "000306": {
+    "charName": "莎赫拉查德",
+    "costumeName": "泳池派对"
+  },
+  "000401": {
+    "charName": "格雷",
+    "costumeName": "迷雾神射手"
+  },
+  "000402": {
+    "charName": "格雷",
+    "costumeName": "B级老板"
+  },
+  "000403": {
+    "charName": "格雷",
+    "costumeName": "先锋大将"
+  },
+  "000406": {
+    "charName": "格雷",
+    "costumeName": "泳池派对"
+  },
+  "000501": {
+    "charName": "鲁",
+    "costumeName": "白色猫咪"
+  },
+  "000502": {
+    "charName": "鲁",
+    "costumeName": "小红帽"
+  },
+  "000502_c": {
+    "charName": "鲁",
+    "costumeName": "小红帽 (Censored)"
+  },
+  "000504": {
+    "charName": "鲁",
+    "costumeName": "自然之爪"
+  },
+  "000506": {
+    "charName": "鲁",
+    "costumeName": "流浪猫"
+  },
+  "000601": {
+    "charName": "奥尔施塔因",
+    "costumeName": "魔物学家"
+  },
+  "000604": {
+    "charName": "奥尔施塔因",
+    "costumeName": "青云道士"
+  },
+  "000701": {
+    "charName": "伊柯利普斯",
+    "costumeName": "空间魔女"
+  },
+  "000706": {
+    "charName": "伊柯利普斯",
+    "costumeName": "恶梦兔女郎"
+  },
+  "000707": {
+    "charName": "伊柯利普斯",
+    "costumeName": "海滨度假"
+  },
+  "000708": {
+    "charName": "伊柯利普斯",
+    "costumeName": "梦中的新娘"
+  },
+  "000801": {
+    "charName": "露比雅",
+    "costumeName": "沙漠之刺"
+  },
+  "000804": {
+    "charName": "露比雅",
+    "costumeName": "大海女帝"
+  },
+  "000806": {
+    "charName": "露比雅",
+    "costumeName": "女仆代号C"
+  },
+  "000807": {
+    "charName": "露比雅",
+    "costumeName": "女仆比基尼"
+  },
+  "001001": {
+    "charName": "席比雅",
+    "costumeName": "沙漠之花"
+  },
+  "001002": {
+    "charName": "席比雅",
+    "costumeName": "剑后"
+  },
+  "001004": {
+    "charName": "席比雅",
+    "costumeName": "海军队长"
+  },
+  "001006": {
+    "charName": "席比雅",
+    "costumeName": "比基尼特工"
+  },
+  "001101": {
+    "charName": "泰瑞丝",
+    "costumeName": "毁灭天使"
+  },
+  "001106": {
+    "charName": "泰瑞丝",
+    "costumeName": "保健部"
+  },
+  "001107": {
+    "charName": "泰瑞丝",
+    "costumeName": "海滨天使"
+  },
+  "001197": {
+    "charName": "泰瑞丝",
+    "costumeName": "奶牛比基尼"
+  },
+  "001201": {
+    "charName": "莉亚特里斯",
+    "costumeName": "罗戴夫之星"
+  },
+  "001206": {
+    "charName": "莉亚特里斯",
+    "costumeName": "霓虹跟踪狂"
+  },
+  "001207": {
+    "charName": "莉亚特里斯",
+    "costumeName": "女仆代号R"
+  },
+  "002401": {
+    "charName": "黛安娜",
+    "costumeName": "未知探究者"
+  },
+  "002403": {
+    "charName": "黛安娜",
+    "costumeName": "魔法匠心"
+  },
+  "002406": {
+    "charName": "黛安娜",
+    "costumeName": "反乌托邦"
+  },
+  "003001": {
+    "charName": "蕾拉",
+    "costumeName": "创造铁砧"
+  },
+  "003101": {
+    "charName": "厄尔比斯",
+    "costumeName": "救赎之手"
+  },
+  "003201": {
+    "charName": "罗安",
+    "costumeName": "最后的希望"
+  },
+  "003202": {
+    "charName": "罗安",
+    "costumeName": "田径社社员"
+  },
+  "003203": {
+    "charName": "罗安",
+    "costumeName": "名人兔女郎"
+  },
+  "003301": {
+    "charName": "内布利斯",
+    "costumeName": "迷宫的门卫"
+  },
+  "003302": {
+    "charName": "内布利斯",
+    "costumeName": "松散的救生员"
+  },
+  "003303": {
+    "charName": "内布利斯",
+    "costumeName": "新进员工"
+  },
+  "003401": {
+    "charName": "墨菲亚",
+    "costumeName": "海滨度假"
+  },
+  "003402": {
+    "charName": "墨菲亚",
+    "costumeName": "白日梦兔女郎"
+  },
+  "003403": {
+    "charName": "墨菲亚",
+    "costumeName": "使徒"
+  },
+  "003501": {
+    "charName": "神圣悠丝缇亚",
+    "costumeName": "找回的命运"
+  },
+  "003601": {
+    "charName": "奥利维耶",
+    "costumeName": "信实之翼"
+  },
+  "003602": {
+    "charName": "奥利维耶",
+    "costumeName": "使徒"
+  },
+  "003603": {
+    "charName": "奥利维耶",
+    "costumeName": "堕落之翼"
+  },
+  "003604": {
+    "charName": "奥利维耶",
+    "costumeName": "传奇退役"
+  },
+  "003701": {
+    "charName": "布莱德",
+    "costumeName": "使徒"
+  },
+  "003702": {
+    "charName": "布莱德",
+    "costumeName": "温泉剑客"
+  },
+  "003703": {
+    "charName": "布莱德",
+    "costumeName": "小公主"
+  },
+  "003801": {
+    "charName": "黎维塔",
+    "costumeName": "暗黑圣女"
+  },
+  "003802": {
+    "charName": "黎维塔",
+    "costumeName": "温泉管理员"
+  },
+  "003803": {
+    "charName": "黎维塔",
+    "costumeName": "奇迹玫瑰"
+  },
+  "003892": {
+    "charName": "黎维塔",
+    "costumeName": "享乐主义者"
+  },
+  "003901": {
+    "charName": "索尼娅",
+    "costumeName": "潜藏的梦"
+  },
+  "003902": {
+    "charName": "索尼娅",
+    "costumeName": "卖南瓜的少女"
+  },
+  "004001": {
+    "charName": "达丽安",
+    "costumeName": "启示之梦"
+  },
+  "004002": {
+    "charName": "达丽安",
+    "costumeName": "半糖余韵兔女郎"
+  },
+  "004101": {
+    "charName": "提尔",
+    "costumeName": "星光守护者"
+  },
+  "004102": {
+    "charName": "提尔",
+    "costumeName": "澄心无邪兔女郎"
+  },
+  "004201": {
+    "charName": "帕莱特",
+    "costumeName": "惊悚之梦"
+  },
+  "004202": {
+    "charName": "帕莱特",
+    "costumeName": "奇迹紫罗兰"
+  },
+  "020001": {
+    "charName": "艾莉丝",
+    "costumeName": "受祝福的冒险家"
+  },
+  "020002": {
+    "charName": "艾莉丝",
+    "costumeName": "只属于你的猫咪"
+  },
+  "020101": {
+    "charName": "洛琪希",
+    "costumeName": "受尊敬的师傅"
+  },
+  "020102": {
+    "charName": "洛琪希",
+    "costumeName": "泄露的欲望"
+  },
+  "020201": {
+    "charName": "咏",
+    "costumeName": "温和的破坏者"
+  },
+  "020301": {
+    "charName": "夜樱",
+    "costumeName": "信念之拳"
+  },
+  "020401": {
+    "charName": "雪泉",
+    "costumeName": "雪花之舞"
+  },
+  "020501": {
+    "charName": "日影",
+    "costumeName": "和蔼的无情"
+  },
+  "020601": {
+    "charName": "哥布林杀手",
+    "costumeName": "小鬼杀手"
+  },
+  "020701": {
+    "charName": "女神官",
+    "costumeName": "地母神的祭司"
+  },
+  "020801": {
+    "charName": "妖精弓手",
+    "costumeName": "星风之女"
+  },
+  "020901": {
+    "charName": "剑之圣女",
+    "costumeName": "至高神的大主教"
+  },
+  "021001": {
+    "charName": "斑鸠",
+    "costumeName": "纯净之焰"
+  },
+  "060301": {
+    "charName": "艾瑞克",
+    "costumeName": "毁灭之星"
+  },
+  "060302": {
+    "charName": "艾瑞克",
+    "costumeName": "破剑士"
+  },
+  "060402": {
+    "charName": "西利亚",
+    "costumeName": "大魔女后裔"
+  },
+  "060403": {
+    "charName": "西利亚",
+    "costumeName": "化妆舞会兔女郎"
+  },
+  "060501": {
+    "charName": "安娜塔西亚",
+    "costumeName": "和善女仆"
+  },
+  "060502": {
+    "charName": "安娜塔西亚",
+    "costumeName": "热火涂鸦"
+  },
+  "060601": {
+    "charName": "莱克莉斯",
+    "costumeName": "杀人娃娃"
+  },
+  "060602": {
+    "charName": "莱克莉斯",
+    "costumeName": "机械人女王"
+  },
+  "060701": {
+    "charName": "拉菲娜",
+    "costumeName": "钢铁引擎"
+  },
+  "060702": {
+    "charName": "拉菲娜",
+    "costumeName": "代号A"
+  },
+  "060706": {
+    "charName": "拉菲娜",
+    "costumeName": "游戏社"
+  },
+  "060801": {
+    "charName": "爱丽洁",
+    "costumeName": "可爱小姐"
+  },
+  "060802": {
+    "charName": "爱丽洁",
+    "costumeName": "代号O"
+  },
+  "061001": {
+    "charName": "海伦娜",
+    "costumeName": "顶尖偶像"
+  },
+  "061002": {
+    "charName": "海伦娜",
+    "costumeName": "B级偶像"
+  },
+  "061092": {
+    "charName": "海伦娜",
+    "costumeName": "新星"
+  },
+  "061101": {
+    "charName": "艾尼尔",
+    "costumeName": "穿透魔弓"
+  },
+  "061102": {
+    "charName": "艾尼尔",
+    "costumeName": "B级偶像"
+  },
+  "061103": {
+    "charName": "艾尼尔",
+    "costumeName": "夜色流影兔女郎"
+  },
+  "061302": {
+    "charName": "达非",
+    "costumeName": "明月"
+  },
+  "061305": {
+    "charName": "达非",
+    "costumeName": "暑假"
+  },
+  "061402": {
+    "charName": "杰尼斯",
+    "costumeName": "罗宾汉"
+  },
+  "061404": {
+    "charName": "杰尼斯",
+    "costumeName": "水上守护者"
+  },
+  "061492": {
+    "charName": "杰尼斯",
+    "costumeName": "神秘面纱兔女郎"
+  },
+  "062001": {
+    "charName": "安德鲁",
+    "costumeName": "忠直管家"
+  },
+  "062002": {
+    "charName": "安德鲁",
+    "costumeName": "专家"
+  },
+  "063001": {
+    "charName": "英格利得",
+    "costumeName": "卡迪斯的子弹"
+  },
+  "063301": {
+    "charName": "辛西亚",
+    "costumeName": "寒日温暖"
+  },
+  "063401": {
+    "charName": "茱莉",
+    "costumeName": "恢复师"
+  },
+  "065102": {
+    "charName": "尤里",
+    "costumeName": "白雷"
+  },
+  "065103": {
+    "charName": "尤里",
+    "costumeName": "回归偶像"
+  },
+  "065802": {
+    "charName": "纳罗达斯",
+    "costumeName": "无名道士"
+  },
+  "066401": {
+    "charName": "安洁莉卡",
+    "costumeName": "堕落之星"
+  },
+  "066402": {
+    "charName": "安洁莉卡",
+    "costumeName": "泳池派对"
+  },
+  "066403": {
+    "charName": "安洁莉卡",
+    "costumeName": "霓虹救星"
+  },
+  "066801": {
+    "charName": "芮彼泰雅",
+    "costumeName": "贪婪之星"
+  },
+  "066802": {
+    "charName": "芮彼泰雅",
+    "costumeName": "纯白祝福"
+  },
+  "066802_c": {
+    "charName": "芮彼泰雅",
+    "costumeName": "纯白祝福 (Censored)"
+  },
+  "066803": {
+    "charName": "芮彼泰雅",
+    "costumeName": "水上精灵"
+  },
+  "066902": {
+    "charName": "克蕾西亚",
+    "costumeName": "爱丽丝"
+  },
+  "066906": {
+    "charName": "克蕾西亚",
+    "costumeName": "纪律部"
+  },
+  "067002": {
+    "charName": "班塔纳",
+    "costumeName": "白雪公主"
+  },
+  "067003": {
+    "charName": "班塔纳",
+    "costumeName": "回归偶像"
+  },
+  "067004": {
+    "charName": "班塔纳",
+    "costumeName": "温泉修行者"
+  },
+  "067101": {
+    "charName": "格兰希特",
+    "costumeName": "虚无之星"
+  },
+  "067102": {
+    "charName": "格兰希特",
+    "costumeName": "回归偶像"
+  },
+  "067103": {
+    "charName": "格兰希特",
+    "costumeName": "恶作剧幽灵"
+  },
+  "067201": {
+    "charName": "贝那卡",
+    "costumeName": "DJ"
+  },
+  "067202": {
+    "charName": "贝那卡",
+    "costumeName": "风之舞姬"
+  },
+  "067301": {
+    "charName": "莱维亚",
+    "costumeName": "田径社社长"
+  },
+  "067302": {
+    "charName": "莱维亚",
+    "costumeName": "猜忌之夜"
+  },
+  "067303": {
+    "charName": "莱维亚",
+    "costumeName": "过热"
+  },
+  "067401": {
+    "charName": "米卡艾拉",
+    "costumeName": "海滨正义"
+  },
+  "067402": {
+    "charName": "米卡艾拉",
+    "costumeName": "签名女王"
+  },
+  "067403": {
+    "charName": "米卡艾拉",
+    "costumeName": "神圣者"
+  },
+  "067502": {
+    "charName": "卢班希亚",
+    "costumeName": "印鉴掠夺者"
+  },
+  "067503": {
+    "charName": "卢班希亚",
+    "costumeName": "野犬"
+  },
+  "067601": {
+    "charName": "威廉明娜",
+    "costumeName": "钢铁君主"
+  },
+  "067603": {
+    "charName": "威廉明娜",
+    "costumeName": "水上乐园女王"
+  },
+  "067604": {
+    "charName": "威廉明娜",
+    "costumeName": "银雪凝光女王"
+  },
+  "067701": {
+    "charName": "葛拉娜德",
+    "costumeName": "净化巫女"
+  },
+  "067702": {
+    "charName": "葛拉娜德",
+    "costumeName": "葛洛堤的女王"
+  },
+  "067801": {
+    "charName": "马莫尼勒",
+    "costumeName": "玄夜"
+  },
+  "067803": {
+    "charName": "马莫尼勒",
+    "costumeName": "奇迹海洋"
+  },
+  "minigame1": {
+    "charName": "小游戏",
+    "costumeName": "Slap Slap Pop"
+  }
+}

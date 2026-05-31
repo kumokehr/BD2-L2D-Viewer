@@ -67,14 +67,14 @@
           </button>
           <button
             v-show="!overlayActive"
-            aria-label="Zoom out"
+            :aria-label="t('sidebar.zoom_out')"
             @click="onZoomOut"
           >
             <MinusIcon />
           </button>
           <button
             v-show="!overlayActive"
-            aria-label="Zoom in"
+            :aria-label="t('sidebar.zoom_in')"
             @click="onZoomIn"
           >
             <PlusIcon />
@@ -91,9 +91,7 @@
           class="absolute top-3 left-1/2 -translate-x-1/2 z-50 hidden lg:block pointer-events-none"
         >
           <div class="rounded-xl border border-gray-700 bg-gray-900/90 px-4 py-3 text-sm text-white shadow-lg shadow-black/40 backdrop-blur-sm">
-            Use <span class="font-semibold text-indigo-300">H</span> to hide the selected layer,
-            <span class="font-semibold text-indigo-300">U</span> to revert the last change, and
-            <span class="font-semibold text-indigo-300">Esc</span> to reset the state.
+            {{ t('app.layer_hint', { hotkey_h: 'H', hotkey_u: 'U', hotkey_esc: 'Esc' }) }}
           </div>
         </div>
       </main>
@@ -152,6 +150,7 @@ import BgToggleIcon from '@/components/icons/BgToggleIcon.vue';
 import LayerSelectIcon from '@/components/icons/LayerSelectIcon.vue';
 import MinusIcon from '@/components/icons/MinusIcon.vue';
 import PlusIcon from '@/components/icons/PlusIcon.vue';
+import { t } from '@/i18n'
 
 const store = useCharacterStore()
 

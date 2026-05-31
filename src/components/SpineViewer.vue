@@ -32,14 +32,14 @@
           <LayerSelectIcon :active="store.layerSelectionEnabled" />
         </button>
         <button
-          aria-label="Zoom out"
+          :aria-label="t('sidebar.zoom_out')"
           @click="zoomOut"
           class="w-8 h-8 p-1.5 rounded-md hidden lg:flex items-center justify-center bg-gray-800/70 hover:bg-gray-700/70 text-white transition-colors"
         >
           <MinusIcon />
         </button>
         <button
-          aria-label="Zoom in"
+          :aria-label="t('sidebar.zoom_in')"
           @click="zoomIn"
           class="w-8 h-8 p-1.5 rounded-md hidden lg:flex items-center justify-center bg-gray-800/70 hover:bg-gray-700/70 text-white transition-colors"
         >
@@ -88,7 +88,7 @@
       v-if="store.selectedLayerName"
       class="absolute bottom-6 left-1/2 -translate-x-1/2 bg-gray-900/80 text-white px-4 py-3 rounded-full z-50 pointer-events-none shadow-lg shadow-black/50 text-sm border border-gray-700 backdrop-blur-sm transition-opacity"
     >
-      Selected Layer: <span class="font-bold text-indigo-400">{{ store.selectedLayerName }}</span>
+      {{ t('sidebar.selected_layer') }}: <span class="font-bold text-indigo-400">{{ store.selectedLayerName }}</span>
     </div>
     <input
       type="range"
@@ -106,6 +106,7 @@
 <script setup lang="ts">
 import { ref, reactive, watch, onMounted, onBeforeUnmount, computed, type CSSProperties } from 'vue'
 import { useCharacterStore } from '@/stores/characterStore'
+import { t } from '@/i18n'
 import {
   SpinePlayer,
   Vector2,

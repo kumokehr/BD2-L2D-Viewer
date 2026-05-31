@@ -4,6 +4,60 @@
   --breakpoint-lg: 72rem;
 }
 
+html,
+body,
+#app {
+  font-family: Inter, sans-serif;
+}
+
+html[data-locale='en-US'],
+body[data-locale='en-US'],
+#app[data-locale='en-US'] {
+  font-family:
+    Inter,
+    "Noto Sans CJK SC",
+    "Noto Sans CJK JP",
+    "Noto Sans CJK KR",
+    sans-serif;
+}
+
+html[data-locale='zh-CN'],
+body[data-locale='zh-CN'],
+#app[data-locale='zh-CN'] {
+  font-family:
+    Inter,
+    "Noto Sans CJK SC",
+    sans-serif;
+}
+
+html[data-locale='zh-TW'],
+body[data-locale='zh-TW'],
+#app[data-locale='zh-TW'] {
+  font-family:
+    Inter,
+    "Noto Sans CJK TC",
+    "Noto Sans CJK SC",
+    sans-serif;
+}
+
+html[data-locale='ja-JP'],
+body[data-locale='ja-JP'],
+#app[data-locale='ja-JP'] {
+  font-family:
+    Inter,
+    "Noto Sans CJK JP",
+    sans-serif;
+}
+
+html[data-locale='ko-KR'],
+body[data-locale='ko-KR'],
+#app[data-locale='ko-KR'] {
+  font-family:
+    Inter,
+    "Noto Sans CJK KR",
+    sans-serif;
+}
+
 .sidebar-scroll {
   scrollbar-width: thin;
   scrollbar-color: #374151 #1f2937;

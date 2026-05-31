@@ -1,5 +1,6 @@
 import { defineStore } from 'pinia'
 import character_list from '@/utils/character_list'
+import { getCharacterContent } from '@/content/characterText'
 
 type AnimationCategory = 'character' | 'ultimate' | 'dating'
 export interface Character {
@@ -20,13 +21,18 @@ export interface Character {
   }
 }
 
-const characterArray: Character[] = Object.entries(character_list).map(([id, char]) => ({
-  id,
-  datingHasNoBg: true,
-  datingUsesTracks: false,
-  icon: id,
-  ...char,
-}))
+const characterArray: Character[] = Object.entries(character_list).map(([id, char]) => {
+  const content = getCharacterContent(id)
+  return {
+    id,
+    datingHasNoBg: true,
+    datingUsesTracks: false,
+    icon: id,
+    charName: content?.charName ?? id,
+    costumeName: content?.costumeName ?? '',
+    ...char,
+  }
+})
 
 export const useCharacterStore = defineStore('characterStore', {
   state: () => ({

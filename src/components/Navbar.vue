@@ -2,16 +2,16 @@
 <template>
   <div>
     <nav class="flex items-center justify-between bg-black text-white p-4">
-      <div class="text-xl md:text-3xl font-bold">Brown Dust 2 L2D Viewer</div>
+      <div class="text-xl md:text-3xl font-bold">{{ t('app.title') }}</div>
       <div class="hidden md:flex items-center gap-4">
-        <button class="cursor-pointer" @click="showUploadModal = true" title="Upload custom Spine model">
+        <button class="cursor-pointer" @click="showUploadModal = true" :title="t('nav.upload_spine')">
           <PlusIcon class="w-5 h-5 md:w-7 md:h-7" />
         </button>
         <button
           class="cursor-pointer"
           @click="openBackgroundModal(false)"
-          aria-label="Upload background"
-          title="Upload background image"
+          :aria-label="t('nav.upload_background')"
+          :title="t('nav.upload_background')"
         >
           <BgUploadIcon class="w-5 h-5 md:w-7 md:h-7" />
         </button>
@@ -19,8 +19,8 @@
           v-if="hasCustomBackground"
           class="cursor-pointer opacity-70 hover:opacity-100 transition"
           @click="resetBackground"
-          aria-label="Reset background"
-          title="Reset background image"
+          :aria-label="t('nav.reset_background')"
+          :title="t('nav.reset_background')"
         >
           <BgResetIcon class="w-5 h-5 md:w-7 md:h-7" />
         </button>
@@ -29,7 +29,7 @@
           target="_blank"
           rel="noopener"
           class="relative"
-          title="Support on Ko-fi"
+          :title="t('nav.support_kofi')"
         >
           <KoFiIcon class="w-5 h-5 md:w-7 md:h-7" />
           <div
@@ -39,7 +39,7 @@
               kofiTooltipHidden ? 'opacity-0' : 'opacity-100'
             ]"
           >
-            If you like the work consider supporting!
+            {{ t('nav.support_prompt') }}
             <span class="absolute left-1/2 -top-2 -translate-x-1/2 border-4 border-transparent border-b-white"></span>
           </div>
         </a>
@@ -47,21 +47,46 @@
           href="https://www.patreon.com/cw/jelosus1"
           target="_blank"
           rel="noopener"
-          title="Support on Patreon"
+          :title="t('nav.support_patreon')"
         >
           <PatreonIcon class="w-5 h-5 md:w-7 md:h-7" />
         </a>
-        <button class="cursor-pointer" @click="showChangelog = true" title="Changelog">
+        <button class="cursor-pointer" @click="showChangelog = true" :title="t('nav.changelog')">
           <ChangelogIcon class="w-5 h-5 md:w-7 md:h-7" />
         </button>
-        <a href="https://github.com/Jelosus2/BD2-L2D-Viewer" target="_blank" title="Open GitHub repository">
+        <a href="https://github.com/Jelosus2/BD2-L2D-Viewer" target="_blank" :title="t('nav.github')">
           <GithubIcon class="w-5 h-5 md:w-7 md:h-7" />
         </a>
+        <div ref="languageMenu" class="relative">
+          <button
+            class="cursor-pointer"
+            @click="showLanguageMenu = !showLanguageMenu"
+            :title="t('nav.language')"
+            :aria-label="t('nav.language')"
+          >
+            <LanguageIcon class="w-5 h-5 md:w-7 md:h-7" />
+          </button>
+          <div
+            v-if="showLanguageMenu"
+            class="absolute right-0 top-full mt-2 w-40 overflow-hidden rounded-md border border-gray-700 bg-gray-900 shadow-lg shadow-black/40 z-20"
+          >
+            <button
+              v-for="option in availableLocales"
+              :key="option.value"
+              type="button"
+              class="flex w-full items-center justify-between px-3 py-2 text-left text-sm text-gray-200 hover:bg-gray-800"
+              @click="setLanguage(option.value)"
+            >
+              <span>{{ option.label }}</span>
+              <span v-if="locale === option.value" class="text-indigo-400">✓</span>
+            </button>
+          </div>
+        </div>
       </div>
       <button
         class="md:hidden cursor-pointer"
         @click="openMobileMenu()"
-        aria-label="Menu"
+        :aria-label="t('nav.menu')"
       >
         <MenuIcon class="w-5 h-5" />
       </button>
@@ -76,7 +101,7 @@
       <button
         class="absolute top-2 right-4 text-xl"
         @click="closeMobileMenu"
-        aria-label="Close menu"
+        :aria-label="t('common.close')"
       >
         ✕
       </button>
@@ -88,14 +113,14 @@
           @click="() => { showUploadModal = true; closeMobileMenu(); }"
         >
           <PlusIcon class="w-5 h-5" />
-          <span>Upload</span>
+          <span>{{ t('nav.upload_spine') }}</span>
         </button>
         <button
           class="flex items-center gap-2"
           @click="openBackgroundModal(true)"
         >
           <BgUploadIcon class="w-5 h-5" />
-          <span>Upload Background</span>
+          <span>{{ t('nav.upload_background') }}</span>
         </button>
         <button
           v-if="hasCustomBackground"
@@ -103,14 +128,14 @@
           @click="() => { resetBackground(); closeMobileMenu(); }"
         >
           <BgResetIcon class="w-5 h-5 opacity-60" />
-          <span>Reset Background</span>
+          <span>{{ t('nav.reset_background') }}</span>
         </button>
         <button
           class="flex items-center gap-2"
           @click="() => { showChangelog = true; closeMobileMenu(); }"
         >
           <ChangelogIcon class="w-5 h-5" />
-          <span>Changelog</span>
+          <span>{{ t('nav.changelog') }}</span>
         </button>
         <a
           href="https://github.com/Jelosus2/BD2-L2D-Viewer"
@@ -120,7 +145,7 @@
           @click="closeMobileMenu"
         >
           <GithubIcon class="w-5 h-5" />
-          <span>GitHub</span>
+          <span>{{ t('nav.github') }}</span>
         </a>
         <a
           href="https://ko-fi.com/jelosus1"
@@ -134,10 +159,10 @@
           <span
             v-if="showMobileKofiTip"
             :class="[
-              'ml-2 text-xs bg-red-600 text-white rounded px-2 py-0.5 transition-opacity duration-500',
+            'ml-2 text-xs bg-red-600 text-white rounded px-2 py-0.5 transition-opacity duration-500',
               mobileKofiTipHidden ? 'opacity-0' : 'opacity-100'
             ]"
-            >Support!</span
+            >{{ t('nav.support_short') }}</span
           >
         </a>
         <a
@@ -148,8 +173,23 @@
           @click="closeMobileMenu"
         >
           <PatreonIcon class="w-5 h-5" />
-          <span>Patreon</span>
+          <span>{{ t('nav.support_patreon') }}</span>
         </a>
+        <div class="pt-2 border-t border-gray-700">
+          <div class="text-sm text-gray-300 mb-2">{{ t('nav.language') }}</div>
+          <div class="grid grid-cols-2 gap-2">
+            <button
+              v-for="option in availableLocales"
+              :key="option.value"
+              type="button"
+              class="rounded border px-3 py-2 text-left text-sm transition-colors"
+              :class="locale === option.value ? 'border-indigo-500 bg-indigo-600/20 text-white' : 'border-gray-700 bg-gray-800 text-gray-300 hover:bg-gray-700 hover:text-white'"
+              @click="setLanguage(option.value)"
+            >
+              {{ option.label }}
+            </button>
+          </div>
+        </div>
       </div>
     </div>
 
@@ -166,7 +206,8 @@
 </template>
 
 <script setup lang="ts">
-import { ref, onMounted, computed, watch } from 'vue'
+import { ref, onMounted, onBeforeUnmount, computed, watch } from 'vue'
+import { availableLocales, locale, setLocale, t } from '@/i18n'
 import ChangelogModal from '@/components/ChangelogModal.vue'
 import UploadSpineModal from '@/components/UploadSpineModal.vue'
 import UploadBackgroundModal from '@/components/UploadBackgroundModal.vue'
@@ -179,6 +220,7 @@ import KoFiIcon from '@/components/icons/KoFiIcon.vue'
 import PatreonIcon from '@/components/icons/PatreonIcon.vue'
 import BgUploadIcon from '@/components/icons/BgUploadIcon.vue'
 import BgResetIcon from '@/components/icons/BgResetIcon.vue'
+import LanguageIcon from '@/components/icons/LanguageIcon.vue'
 
 const props = defineProps<{ hasCustomBackground?: boolean }>()
 const hasCustomBackground = computed(() => !!props.hasCustomBackground)
@@ -192,6 +234,8 @@ const mobileMenuOpen = ref(false)
 const mobileMenu = ref<HTMLElement | null>(null)
 const showMobileKofiTip = ref(false)
 const mobileKofiTipHidden = ref(false)
+const showLanguageMenu = ref(false)
+const languageMenu = ref<HTMLElement | null>(null)
 let closeMenuAfterBgUpload = false
 
 let mobileTipTimer: number | undefined
@@ -202,6 +246,18 @@ const emit = defineEmits<{
   (e: 'upload-bg', dataUrl: string | null): void
   (e: 'overlay-active', active: boolean): void
 }>()
+
+function setLanguage(value: (typeof availableLocales)[number]['value']) {
+  setLocale(value)
+  showLanguageMenu.value = false
+}
+
+function handleDocumentClick(event: MouseEvent) {
+  if (!showLanguageMenu.value) return
+  const target = event.target as Node
+  if (languageMenu.value?.contains(target)) return
+  showLanguageMenu.value = false
+}
 
 const openMobileMenu = () => {
   mobileMenuOpen.value = true
@@ -277,6 +333,7 @@ watch(
 )
 
 onMounted(() => {
+  document.addEventListener('click', handleDocumentClick)
   if (!localStorage.getItem('kofiPromptSeen') && !window.matchMedia('(max-width: 767px)').matches) {
     showKofiTooltip.value = true
     setTimeout(() => {
@@ -288,10 +345,10 @@ onMounted(() => {
     }, 5000)
   }
 })
+
+onBeforeUnmount(() => {
+  document.removeEventListener('click', handleDocumentClick)
+})
 </script>
-
-
-
-
 
 
