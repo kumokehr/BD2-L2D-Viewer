@@ -739,6 +739,66 @@
     "charName": "马莫尼勒",
     "costumeName": "奇迹海洋"
   },
+  "npc000001": {
+    "charName": "洛兹 (NPC)",
+    "costumeName": ""
+  },
+  "npc000004": {
+    "charName": "埃伊里 (NPC)",
+    "costumeName": ""
+  },
+  "npc000005": {
+    "charName": "艾莉诺 (NPC)",
+    "costumeName": ""
+  },
+  "npc200551": {
+    "charName": "坚毅的研究员 (NPC)",
+    "costumeName": ""
+  },
+  "npc300103": {
+    "charName": "加里诺斯 (NPC)",
+    "costumeName": ""
+  },
+  "npc300104": {
+    "charName": "阿斯摩德 (NPC)",
+    "costumeName": ""
+  },
+  "npc300601": {
+    "charName": "公会传达员丽莎 (NPC)",
+    "costumeName": ""
+  },
+  "npc300701": {
+    "charName": "贝拉 (NPC)",
+    "costumeName": ""
+  },
+  "npc400001": {
+    "charName": "幼年黎维塔",
+    "costumeName": ""
+  },
+  "npc400034": {
+    "charName": "格蕾塔 (NPC)",
+    "costumeName": ""
+  },
+  "npc400049": {
+    "charName": "格雷",
+    "costumeName": "罗坦国王"
+  },
+  "npc400050": {
+    "charName": "史佩堤 (NPC)",
+    "costumeName": ""
+  },
+  "npc400064": {
+    "charName": "斐杰 (NPC)",
+    "costumeName": ""
+  },
+  "npc400070": {
+    "charName": "内肯达莉亚 (NPC)",
+    "costumeName": ""
+  },
+  "npc_elin": {
+    "charName": "艾琳 (NPC)",
+    "costumeName": ""
+  },
   "minigame1": {
     "charName": "小游戏",
     "costumeName": "Slap Slap Pop"

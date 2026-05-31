@@ -739,6 +739,66 @@
     "charName": "마모니르",
     "costumeName": "미라클 마린"
   },
+  "npc000001": {
+    "charName": "로체 (NPC)",
+    "costumeName": ""
+  },
+  "npc000004": {
+    "charName": "아일리 (NPC)",
+    "costumeName": ""
+  },
+  "npc000005": {
+    "charName": "엘리노어 (NPC)",
+    "costumeName": ""
+  },
+  "npc200551": {
+    "charName": "심지 굳은 연구원 (NPC)",
+    "costumeName": ""
+  },
+  "npc300103": {
+    "charName": "가리노스 (NPC)",
+    "costumeName": ""
+  },
+  "npc300104": {
+    "charName": "아스모드 (NPC)",
+    "costumeName": ""
+  },
+  "npc300601": {
+    "charName": "길드 접수원 리자 (NPC)",
+    "costumeName": ""
+  },
+  "npc300701": {
+    "charName": "베일라 (NPC)",
+    "costumeName": ""
+  },
+  "npc400001": {
+    "charName": "어린 리베르타",
+    "costumeName": ""
+  },
+  "npc400034": {
+    "charName": "그레타 (NPC)",
+    "costumeName": ""
+  },
+  "npc400049": {
+    "charName": "그레이",
+    "costumeName": "로테인의 왕"
+  },
+  "npc400050": {
+    "charName": "스페티 (NPC)",
+    "costumeName": ""
+  },
+  "npc400064": {
+    "charName": "발제 (NPC)",
+    "costumeName": ""
+  },
+  "npc400070": {
+    "charName": "네켄달리아 (NPC)",
+    "costumeName": ""
+  },
+  "npc_elin": {
+    "charName": "엘린 (NPC)",
+    "costumeName": ""
+  },
   "minigame1": {
     "charName": "미니게임",
     "costumeName": "Slap Slap Pop"

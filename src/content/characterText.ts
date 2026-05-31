@@ -34,7 +34,7 @@ function mergeCharacterContent(
     costumeName: localized?.costumeName ?? base?.costumeName ?? fallback?.costumeName,
   }
 
-  if (!merged.charName || !merged.costumeName) return fallback ? fallback : null
+  if (!merged.charName) return fallback ? fallback : null
   return merged as CharacterContent
 }
 
@@ -53,6 +53,7 @@ export function getCharacterDisplayName(
 ): string {
   const content = getCharacterContent(id, currentLocale, fallback)
   if (!content) return id
+  if (!content.costumeName) return content.charName
   return `${content.charName}: ${content.costumeName}`
 }
 
@@ -63,5 +64,5 @@ export function getCharacterSearchText(
 ): string {
   const content = getCharacterContent(id, currentLocale, fallback)
   if (!content) return id.toLowerCase()
-  return `${id} ${content.charName} ${content.costumeName}`.toLowerCase()
+  return `${id} ${content.charName} ${content.costumeName ?? ''}`.toLowerCase()
 }

@@ -739,6 +739,66 @@
     "charName": "マモニル",
     "costumeName": "ミラクル・マリン"
   },
+  "npc000001": {
+    "charName": "ローチェ (NPC)",
+    "costumeName": ""
+  },
+  "npc000004": {
+    "charName": "アイリー (NPC)",
+    "costumeName": ""
+  },
+  "npc000005": {
+    "charName": "エレノア (NPC)",
+    "costumeName": ""
+  },
+  "npc200551": {
+    "charName": "決意した研究員 (NPC)",
+    "costumeName": ""
+  },
+  "npc300103": {
+    "charName": "ガリノス (NPC)",
+    "costumeName": ""
+  },
+  "npc300104": {
+    "charName": "アスモード (NPC)",
+    "costumeName": ""
+  },
+  "npc300601": {
+    "charName": "ギルド受付リザ (NPC)",
+    "costumeName": ""
+  },
+  "npc300701": {
+    "charName": "ヴェイラ (NPC)",
+    "costumeName": ""
+  },
+  "npc400001": {
+    "charName": "幼いリベルタ",
+    "costumeName": ""
+  },
+  "npc400034": {
+    "charName": "グレタ (NPC)",
+    "costumeName": ""
+  },
+  "npc400049": {
+    "charName": "グレイ",
+    "costumeName": "ロテイン王"
+  },
+  "npc400050": {
+    "charName": "スペティ (NPC)",
+    "costumeName": ""
+  },
+  "npc400064": {
+    "charName": "バルゼ (NPC)",
+    "costumeName": ""
+  },
+  "npc400070": {
+    "charName": "ネケンダリア (NPC)",
+    "costumeName": ""
+  },
+  "npc_elin": {
+    "charName": "エリーン (NPC)",
+    "costumeName": ""
+  },
   "minigame1": {
     "charName": "ミニゲーム",
     "costumeName": "Slap Slap Pop"

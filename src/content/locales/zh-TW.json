@@ -739,6 +739,66 @@
     "charName": "馬莫尼勒",
     "costumeName": "奇蹟海洋"
   },
+  "npc000001": {
+    "charName": "洛茲 (NPC)",
+    "costumeName": ""
+  },
+  "npc000004": {
+    "charName": "埃伊里 (NPC)",
+    "costumeName": ""
+  },
+  "npc000005": {
+    "charName": "艾莉諾 (NPC)",
+    "costumeName": ""
+  },
+  "npc200551": {
+    "charName": "意志堅定的研究員 (NPC)",
+    "costumeName": ""
+  },
+  "npc300103": {
+    "charName": "加里諾斯 (NPC)",
+    "costumeName": ""
+  },
+  "npc300104": {
+    "charName": "阿斯摩德 (NPC)",
+    "costumeName": ""
+  },
+  "npc300601": {
+    "charName": "公會受理員麗莎 (NPC)",
+    "costumeName": ""
+  },
+  "npc300701": {
+    "charName": "蕾拉 (NPC)",
+    "costumeName": ""
+  },
+  "npc400001": {
+    "charName": "幼年黎維塔",
+    "costumeName": ""
+  },
+  "npc400034": {
+    "charName": "格蕾塔 (NPC)",
+    "costumeName": ""
+  },
+  "npc400049": {
+    "charName": "格雷",
+    "costumeName": "羅坦國王"
+  },
+  "npc400050": {
+    "charName": "史佩堤 (NPC)",
+    "costumeName": ""
+  },
+  "npc400064": {
+    "charName": "斐傑 (NPC)",
+    "costumeName": ""
+  },
+  "npc400070": {
+    "charName": "涅肯達莉亞 (NPC)",
+    "costumeName": ""
+  },
+  "npc_elin": {
+    "charName": "艾琳 (NPC)",
+    "costumeName": ""
+  },
   "minigame1": {
     "charName": "迷你遊戲",
     "costumeName": "Slap Slap Pop"

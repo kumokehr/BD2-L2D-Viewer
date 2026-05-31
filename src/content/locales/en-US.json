@@ -739,6 +739,66 @@
     "charName": "Mamonir",
     "costumeName": "Miracle Marine"
   },
+  "npc000001": {
+    "charName": "Roche (NPC)",
+    "costumeName": ""
+  },
+  "npc000004": {
+    "charName": "Ailee (NPC)",
+    "costumeName": ""
+  },
+  "npc000005": {
+    "charName": "Eleanor (NPC)",
+    "costumeName": ""
+  },
+  "npc200551": {
+    "charName": "Determined Researcher (NPC)",
+    "costumeName": ""
+  },
+  "npc300103": {
+    "charName": "Garinoth (NPC)",
+    "costumeName": ""
+  },
+  "npc300104": {
+    "charName": "Asmode (NPC)",
+    "costumeName": ""
+  },
+  "npc300601": {
+    "charName": "Guild Receptionist Liza (NPC)",
+    "costumeName": ""
+  },
+  "npc300701": {
+    "charName": "Veila (NPC)",
+    "costumeName": ""
+  },
+  "npc400001": {
+    "charName": "Child Liberta",
+    "costumeName": ""
+  },
+  "npc400034": {
+    "charName": "Greta (NPC)",
+    "costumeName": ""
+  },
+  "npc400049": {
+    "charName": "Gray",
+    "costumeName": "Rotein King"
+  },
+  "npc400050": {
+    "charName": "Spatti (NPC)",
+    "costumeName": ""
+  },
+  "npc400064": {
+    "charName": "Valze (NPC)",
+    "costumeName": ""
+  },
+  "npc400070": {
+    "charName": "Nekyndalia (NPC)",
+    "costumeName": ""
+  },
+  "npc_elin": {
+    "charName": "Elin (NPC)",
+    "costumeName": ""
+  },
   "minigame1": {
     "charName": "Minigame",
     "costumeName": "Slap Slap Pop"

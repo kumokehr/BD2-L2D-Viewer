@@ -954,6 +954,81 @@ export default {
     "cutscene": "cutscene_char067803",
     "dating": ""
   },
+  "npc000001": {
+    "spine": "npc000001",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc000004": {
+    "spine": "npc000004",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc000005": {
+    "spine": "npc000005",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc200551": {
+    "spine": "npc200551",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc300103": {
+    "spine": "npc300103",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc300104": {
+    "spine": "npc300104",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc300601": {
+    "spine": "npc300601",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc300701": {
+    "spine": "npc300701",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400001": {
+    "spine": "npc400001",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400034": {
+    "spine": "npc400034",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400049": {
+    "spine": "npc400049",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400050": {
+    "spine": "npc400050",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400064": {
+    "spine": "npc400064",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400070": {
+    "spine": "npc400070",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc_elin": {
+    "spine": "npc_elin",
+    "cutscene": "",
+    "dating": ""
+  },
   "minigame1": {
     "spine": "RhythmHitAnim",
     "cutscene": "",
