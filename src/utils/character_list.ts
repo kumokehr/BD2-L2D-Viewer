@@ -227,6 +227,8 @@ export default {
     "spine": "char000396",
     "cutscene": "cutscene_char000396",
     "dating": "illust_dating18",
+    "datingHasNoBg": false,
+    "datingUsesTracks": true
   },
   "000401": {
     "spine": "char000401",
