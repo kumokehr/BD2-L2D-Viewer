@@ -175,6 +175,10 @@
     "charName": "세헤라자드",
     "costumeName": "풀 파티"
   },
+  "000396": {
+    "charName": "세헤라자드",
+    "costumeName": "딜리버레이트 에이스"
+  },
   "000401": {
     "charName": "그레이",
     "costumeName": "안개의 명사수"
@@ -339,6 +343,10 @@
     "charName": "네브리스",
     "costumeName": "신입 사원"
   },
+  "003392": {
+    "charName": "네브리스",
+    "costumeName": "럭키 비키니"
+  },
   "003401": {
     "charName": "모르페아",
     "costumeName": "비치 바캉스"
@@ -415,6 +423,10 @@
     "charName": "다리안",
     "costumeName": "비터스윗 바니"
   },
+  "004091": {
+    "charName": "다리안",
+    "costumeName": "계몽의 전령"
+  },
   "004101": {
     "charName": "티르",
     "costumeName": "별빛의 수호자"
@@ -430,6 +442,10 @@
   "004202": {
     "charName": "팔레트",
     "costumeName": "미라클 바이올렛"
+  },
+  "004301": {
+    "charName": "네켄달리아",
+    "costumeName": "데드아이"
   },
   "020001": {
     "charName": "에리스",
@@ -535,6 +551,10 @@
     "charName": "엘리제",
     "costumeName": "코드네임 O"
   },
+  "060804": {
+    "charName": "엘리제",
+    "costumeName": "나이브 레이디"
+  },
   "061001": {
     "charName": "헬레나",
     "costumeName": "톱 아이돌"
@@ -566,6 +586,10 @@
   "061305": {
     "charName": "달비",
     "costumeName": "여름휴가"
+  },
+  "061306": {
+    "charName": "달비",
+    "costumeName": "트릭키 러버"
   },
   "061402": {
     "charName": "제니스",
@@ -671,6 +695,10 @@
     "charName": "그란힐트",
     "costumeName": "깜짝 유령"
   },
+  "067104": {
+    "charName": "그란힐트",
+    "costumeName": "컴뱃 메딕"
+  },
   "067201": {
     "charName": "베나카",
     "costumeName": "DJ"
@@ -703,6 +731,10 @@
     "charName": "미카엘라",
     "costumeName": "거룩한 자"
   },
+  "067491": {
+    "charName": "미카엘라",
+    "costumeName": "트루 리버레이션"
+  },
   "067502": {
     "charName": "루벤시아",
     "costumeName": "인감 탈취자"
@@ -710,6 +742,10 @@
   "067503": {
     "charName": "루벤시아",
     "costumeName": "와일드독"
+  },
+  "067504": {
+    "charName": "루벤시아",
+    "costumeName": "오션 뱅가드"
   },
   "067601": {
     "charName": "빌헬미나",
@@ -793,6 +829,10 @@
   },
   "npc400070": {
     "charName": "네켄달리아 (NPC)",
+    "costumeName": ""
+  },
+  "npc400098": {
+    "charName": "루디나 (NPC)",
     "costumeName": ""
   },
   "npc_elin": {

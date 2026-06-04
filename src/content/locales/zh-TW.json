@@ -175,6 +175,10 @@
     "charName": "莎赫拉查德",
     "costumeName": "泳池派對"
   },
+  "000396": {
+    "charName": "莎赫拉查德",
+    "costumeName": "致勝王牌"
+  },
   "000401": {
     "charName": "格雷",
     "costumeName": "迷霧神射手"
@@ -339,6 +343,10 @@
     "charName": "內布利斯",
     "costumeName": "新進員工"
   },
+  "003392": {
+    "charName": "內布利斯",
+    "costumeName": "幸運比基尼"
+  },
   "003401": {
     "charName": "墨菲亞",
     "costumeName": "海邊度假"
@@ -415,6 +423,10 @@
     "charName": "達麗安",
     "costumeName": "苦甜兔女郎"
   },
+  "004091": {
+    "charName": "達麗安",
+    "costumeName": "啟蒙使者"
+  },
   "004101": {
     "charName": "提爾",
     "costumeName": "星光守護者"
@@ -430,6 +442,10 @@
   "004202": {
     "charName": "帕萊特",
     "costumeName": "奇蹟紫羅蘭"
+  },
+  "004301": {
+    "charName": "涅肯達莉亞",
+    "costumeName": "致命之眼"
   },
   "020001": {
     "charName": "艾莉絲",
@@ -535,6 +551,10 @@
     "charName": "愛麗潔",
     "costumeName": "代號O"
   },
+  "060804": {
+    "charName": "愛麗潔",
+    "costumeName": "天真的小姐"
+  },
   "061001": {
     "charName": "海倫娜",
     "costumeName": "頂尖偶像"
@@ -566,6 +586,10 @@
   "061305": {
     "charName": "達非",
     "costumeName": "暑假"
+  },
+  "061306": {
+    "charName": "達非",
+    "costumeName": "詭計戀人"
   },
   "061402": {
     "charName": "傑尼斯",
@@ -671,6 +695,10 @@
     "charName": "葛蘭西特",
     "costumeName": "惡作劇幽靈"
   },
+  "067104": {
+    "charName": "葛蘭西特",
+    "costumeName": "戰地醫護兵"
+  },
   "067201": {
     "charName": "貝那卡",
     "costumeName": "DJ"
@@ -703,6 +731,10 @@
     "charName": "米卡埃拉",
     "costumeName": "神聖者"
   },
+  "067491": {
+    "charName": "米卡埃拉",
+    "costumeName": "終極解脫"
+  },
   "067502": {
     "charName": "盧班希亞",
     "costumeName": "印鑑掠奪者"
@@ -710,6 +742,10 @@
   "067503": {
     "charName": "盧班希亞",
     "costumeName": "野犬"
+  },
+  "067504": {
+    "charName": "盧班希亞",
+    "costumeName": "海洋先鋒"
   },
   "067601": {
     "charName": "威廉明娜",
@@ -793,6 +829,10 @@
   },
   "npc400070": {
     "charName": "涅肯達莉亞 (NPC)",
+    "costumeName": ""
+  },
+  "npc400098": {
+    "charName": "露迪娜 (NPC)",
     "costumeName": ""
   },
   "npc_elin": {

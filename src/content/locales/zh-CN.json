@@ -175,6 +175,10 @@
     "charName": "莎赫拉查德",
     "costumeName": "泳池派对"
   },
+  "000396": {
+    "charName": "莎赫拉查德",
+    "costumeName": "从容的王牌"
+  },
   "000401": {
     "charName": "格雷",
     "costumeName": "迷雾神射手"
@@ -339,6 +343,10 @@
     "charName": "内布利斯",
     "costumeName": "新进员工"
   },
+  "003392": {
+    "charName": "内布利斯",
+    "costumeName": "幸运比基尼"
+  },
   "003401": {
     "charName": "墨菲亚",
     "costumeName": "海滨度假"
@@ -415,6 +423,10 @@
     "charName": "达丽安",
     "costumeName": "半糖余韵兔女郎"
   },
+  "004091": {
+    "charName": "达丽安",
+    "costumeName": "启蒙信使"
+  },
   "004101": {
     "charName": "提尔",
     "costumeName": "星光守护者"
@@ -430,6 +442,10 @@
   "004202": {
     "charName": "帕莱特",
     "costumeName": "奇迹紫罗兰"
+  },
+  "004301": {
+    "charName": "内肯达莉亚",
+    "costumeName": "神枪手"
   },
   "020001": {
     "charName": "艾莉丝",
@@ -535,6 +551,10 @@
     "charName": "爱丽洁",
     "costumeName": "代号O"
   },
+  "060804": {
+    "charName": "爱丽洁",
+    "costumeName": "稚心佳人"
+  },
   "061001": {
     "charName": "海伦娜",
     "costumeName": "顶尖偶像"
@@ -566,6 +586,10 @@
   "061305": {
     "charName": "达非",
     "costumeName": "暑假"
+  },
+  "061306": {
+    "charName": "达非",
+    "costumeName": "机智恋人"
   },
   "061402": {
     "charName": "杰尼斯",
@@ -671,6 +695,10 @@
     "charName": "格兰希特",
     "costumeName": "恶作剧幽灵"
   },
+  "067104": {
+    "charName": "格兰希特",
+    "costumeName": "战地医疗兵"
+  },
   "067201": {
     "charName": "贝那卡",
     "costumeName": "DJ"
@@ -703,6 +731,10 @@
     "charName": "米卡艾拉",
     "costumeName": "神圣者"
   },
+  "067491": {
+    "charName": "米卡艾拉",
+    "costumeName": "真意解放"
+  },
   "067502": {
     "charName": "卢班希亚",
     "costumeName": "印鉴掠夺者"
@@ -710,6 +742,10 @@
   "067503": {
     "charName": "卢班希亚",
     "costumeName": "野犬"
+  },
+  "067504": {
+    "charName": "卢班希亚",
+    "costumeName": "海洋先锋"
   },
   "067601": {
     "charName": "威廉明娜",
@@ -793,6 +829,10 @@
   },
   "npc400070": {
     "charName": "内肯达莉亚 (NPC)",
+    "costumeName": ""
+  },
+  "npc400098": {
+    "charName": "芦笛娜 (NPC)",
     "costumeName": ""
   },
   "npc_elin": {

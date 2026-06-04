@@ -223,6 +223,11 @@ export default {
     "cutscene": "cutscene_char000306",
     "dating": ""
   },
+  "000396": {
+    "spine": "char000396",
+    "cutscene": "cutscene_char000396",
+    "dating": "illust_dating18",
+  },
   "000401": {
     "spine": "char000401",
     "cutscene": "cutscene_char000401",
@@ -437,6 +442,11 @@ export default {
     "dating": "illust_dating1",
     "datingUsesTracks": true
   },
+  "003392": {
+    "spine": "char003392",
+    "cutscene": "",
+    "dating": ""
+  },
   "003401": {
     "spine": "char003401",
     "cutscene": "cutscene_char003401",
@@ -537,6 +547,11 @@ export default {
     "cutscene": "cutscene_char004002",
     "dating": ""
   },
+  "004091": {
+    "spine": "char004091",
+    "cutscene": "cutscene_char004091",
+    "dating": ""
+  },
   "004101": {
     "spine": "char004101",
     "cutscene": "cutscene_char004101",
@@ -560,6 +575,11 @@ export default {
     "dating": "illust_dating17",
     "datingHasNoBg": false,
     "datingUsesTracks": true
+  },
+  "004301": {
+    "spine": "char004301",
+    "cutscene": "cutscene_char004301",
+    "dating": ""
   },
   "020001": {
     "spine": "char020001",
@@ -692,6 +712,11 @@ export default {
     "dating": "illust_dating5",
     "datingUsesTracks": true
   },
+  "060804": {
+    "spine": "char060804",
+    "cutscene": "",
+    "dating": ""
+  },
   "061001": {
     "spine": "char061001",
     "cutscene": "cutscene_char061001",
@@ -730,6 +755,11 @@ export default {
   "061305": {
     "spine": "char061305",
     "cutscene": "cutscene_char061305",
+    "dating": ""
+  },
+  "061306": {
+    "spine": "char061306",
+    "cutscene": "",
     "dating": ""
   },
   "061402": {
@@ -868,6 +898,11 @@ export default {
     "cutscene": "cutscene_char067103",
     "dating": ""
   },
+  "067104": {
+    "spine": "char067104",
+    "cutscene": "",
+    "dating": ""
+  },
   "067201": {
     "spine": "char067201",
     "cutscene": "cutscene_char067201",
@@ -908,6 +943,11 @@ export default {
     "cutscene": "cutscene_char067403",
     "dating": ""
   },
+  "067491": {
+    "spine": "char067491",
+    "cutscene": "cutscene_char067491",
+    "dating": ""
+  },
   "067502": {
     "spine": "char067502",
     "cutscene": "cutscene_char067502",
@@ -916,6 +956,11 @@ export default {
   "067503": {
     "spine": "char067503",
     "cutscene": "cutscene_char067503",
+    "dating": ""
+  },
+  "067504": {
+    "spine": "char067504",
+    "cutscene": "cutscene_char067504",
     "dating": ""
   },
   "067601": {
@@ -1024,6 +1069,11 @@ export default {
     "cutscene": "",
     "dating": ""
   },
+  "npc400098": {
+    "spine": "npc400098",
+    "cutscene": "",
+    "dating": ""
+  },
   "npc_elin": {
     "spine": "npc_elin",
     "cutscene": "",
@@ -1034,17 +1084,19 @@ export default {
     "cutscene": "",
     "dating": ""
   },
-} as { [key: string]: {
-  spine: string,
-  cutscene: string,
-  dating: string,
-  icon?: string,
-  datingHasNoBg?: boolean,
-  datingUsesTracks?: boolean,
-  customFiles?: {
-    skel?: string,
-    json?: string,
-    atlas: string,
-    images: Record<string, string>
+} as {
+  [key: string]: {
+    spine: string,
+    cutscene: string,
+    dating: string,
+    icon?: string,
+    datingHasNoBg?: boolean,
+    datingUsesTracks?: boolean,
+    customFiles?: {
+      skel?: string,
+      json?: string,
+      atlas: string,
+      images: Record<string, string>
+    }
   }
-} }
+}

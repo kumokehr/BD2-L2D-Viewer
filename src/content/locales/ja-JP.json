@@ -175,6 +175,10 @@
     "charName": "シェラザード",
     "costumeName": "プールパーティ"
   },
+  "000396": {
+    "charName": "シェラザード",
+    "costumeName": "デリバレート・エース"
+  },
   "000401": {
     "charName": "グレイ",
     "costumeName": "霧の名射手"
@@ -339,6 +343,10 @@
     "charName": "ネブリス",
     "costumeName": "新入社員"
   },
+  "003392": {
+    "charName": "ネブリス",
+    "costumeName": "ラッキー・ビキニ"
+  },
   "003401": {
     "charName": "モルフェア",
     "costumeName": "ビーチバカンス"
@@ -415,6 +423,10 @@
     "charName": "ダリアン",
     "costumeName": "ビタースウィート・バニー"
   },
+  "004091": {
+    "charName": "ダリアン",
+    "costumeName": "啓蒙の使者"
+  },
   "004101": {
     "charName": "ティル",
     "costumeName": "星光の守護者"
@@ -430,6 +442,10 @@
   "004202": {
     "charName": "パレット",
     "costumeName": "ミラクル・ヴァイオレット"
+  },
+  "004301": {
+    "charName": "ネケンダリア",
+    "costumeName": "デッドアイ"
   },
   "020001": {
     "charName": "エリス",
@@ -535,6 +551,10 @@
     "charName": "エリーゼ",
     "costumeName": "コードネーム O"
   },
+  "060804": {
+    "charName": "エリーゼ",
+    "costumeName": "ナイーブ・レディ"
+  },
   "061001": {
     "charName": "ヘレナ",
     "costumeName": "トップアイドル"
@@ -566,6 +586,10 @@
   "061305": {
     "charName": "キュウビ",
     "costumeName": "サマーバカンス"
+  },
+  "061306": {
+    "charName": "キュウビ",
+    "costumeName": "トリッキー・ラヴァー"
   },
   "061402": {
     "charName": "ジェニス",
@@ -671,6 +695,10 @@
     "charName": "グランヒルト",
     "costumeName": "サプライズゴースト"
   },
+  "067104": {
+    "charName": "グランヒルト",
+    "costumeName": "コンバット・メディック"
+  },
   "067201": {
     "charName": "ベナカ",
     "costumeName": "DJ"
@@ -703,6 +731,10 @@
     "charName": "ミカエラ",
     "costumeName": "大主教代行"
   },
+  "067491": {
+    "charName": "ミカエラ",
+    "costumeName": "トゥルー・リベレーション"
+  },
   "067502": {
     "charName": "ルベンシア",
     "costumeName": "契約奪取者"
@@ -710,6 +742,10 @@
   "067503": {
     "charName": "ルベンシア",
     "costumeName": "ワイルドドッグ"
+  },
+  "067504": {
+    "charName": "ルベンシア",
+    "costumeName": "オーシャン・ヴァンガード"
   },
   "067601": {
     "charName": "ウィルヘルミナ",
@@ -793,6 +829,10 @@
   },
   "npc400070": {
     "charName": "ネケンダリア (NPC)",
+    "costumeName": ""
+  },
+  "npc400098": {
+    "charName": "ルディーナ (NPC)",
     "costumeName": ""
   },
   "npc_elin": {

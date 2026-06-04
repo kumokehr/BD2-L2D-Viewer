@@ -175,6 +175,10 @@
     "charName": "Scheherazade",
     "costumeName": "Pool Party"
   },
+  "000396": {
+    "charName": "Scheherazade",
+    "costumeName": "Deliberate Ace"
+  },
   "000401": {
     "charName": "Gray",
     "costumeName": "The Sharpshooter of the Mist"
@@ -339,6 +343,10 @@
     "charName": "Nebris",
     "costumeName": "New Hire"
   },
+  "003392": {
+    "charName": "Nebris",
+    "costumeName": "Lucky Bikini"
+  },
   "003401": {
     "charName": "Morpeah",
     "costumeName": "Beach Vacation"
@@ -415,6 +423,10 @@
     "charName": "Darian",
     "costumeName": "Bittersweet Bunny"
   },
+  "004091": {
+    "charName": "Darian",
+    "costumeName": "Herald of Enlightenment"
+  },
   "004101": {
     "charName": "Tyr",
     "costumeName": "Starlight Guardian"
@@ -430,6 +442,10 @@
   "004202": {
     "charName": "Palette",
     "costumeName": "Miracle Violet"
+  },
+  "004301": {
+    "charName": "Nekyndalia",
+    "costumeName": "Deadeye"
   },
   "020001": {
     "charName": "Eris",
@@ -535,6 +551,10 @@
     "charName": "Elise",
     "costumeName": "Code Name O"
   },
+  "060804": {
+    "charName": "Elise",
+    "costumeName": "Naive Lady"
+  },
   "061001": {
     "charName": "Helena",
     "costumeName": "Top Idol"
@@ -566,6 +586,10 @@
   "061305": {
     "charName": "Dalvi",
     "costumeName": "Summer Vacation"
+  },
+  "061306": {
+    "charName": "Dalvi",
+    "costumeName": "Tricky Lover"
   },
   "061402": {
     "charName": "Zenith",
@@ -671,6 +695,10 @@
     "charName": "Granhildr",
     "costumeName": "Boo Ghost"
   },
+  "067104": {
+    "charName": "Granhildr",
+    "costumeName": "Combat Medic"
+  },
   "067201": {
     "charName": "Venaka",
     "costumeName": "DJ"
@@ -703,6 +731,10 @@
     "charName": "Michaela",
     "costumeName": "Acting Archbishop"
   },
+  "067491": {
+    "charName": "Michaela",
+    "costumeName": "True Liberation"
+  },
   "067502": {
     "charName": "Luvencia",
     "costumeName": "Deal Snatcher"
@@ -710,6 +742,10 @@
   "067503": {
     "charName": "Luvencia",
     "costumeName": "Wild Dog"
+  },
+  "067504": {
+    "charName": "Luvencia",
+    "costumeName": "Ocean Vanguard"
   },
   "067601": {
     "charName": "Wilhelmina",
@@ -793,6 +829,10 @@
   },
   "npc400070": {
     "charName": "Nekyndalia (NPC)",
+    "costumeName": ""
+  },
+  "npc400098": {
+    "charName": "Rudina (NPC)",
     "costumeName": ""
   },
   "npc_elin": {
