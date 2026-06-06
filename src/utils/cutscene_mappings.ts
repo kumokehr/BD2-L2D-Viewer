@@ -1,4 +1,4 @@
-export type CutsceneAnim = string | { name: string; offset?: number; source?: string; skin?: string }
+export type CutsceneAnim = string | { name: string; offset?: number; source?: string; skin?: string; hold?: boolean }
 export type CutsceneComposite = (CutsceneAnim | CutsceneAnim[])[]
 export type CutsceneCompositeDefinition = {
   name?: string
@@ -21,8 +21,8 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
     {
       name: "cut_B_all",
       composite: [[
-        "cut_B_Body",
         "cut_B_Ponytail",
+        "cut_B_Body",
         "cut_B_Head",
         { name: "cut_B_B", source: "cutscene/glow/cutscene_char067803_1" },
         { name: "cut_B_Body", source: "cutscene/glow/cutscene_char067803_1" },
@@ -68,9 +68,9 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
     {
       "name": "B_cut_all",
       "composite": [[
+        { name: "panties_black", hold: true},
+        { name: "panties_white", hold: true},
         "B_cut",
-        "panties_black",
-        "panties_white",
       ]]
     }
   ],
