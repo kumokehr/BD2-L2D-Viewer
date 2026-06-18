@@ -902,8 +902,10 @@ export default {
   },
   "067104": {
     "spine": "char067104",
-    "cutscene": "",
-    "dating": ""
+    "cutscene": "cutscene_char067104",
+    "dating": "illust_dating19",
+    "datingHasNoBg": false,
+    "datingUsesTracks": true
   },
   "067201": {
     "spine": "char067201",

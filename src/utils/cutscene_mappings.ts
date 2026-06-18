@@ -1,4 +1,4 @@
-export type CutsceneAnim = string | { name: string; offset?: number; source?: string; skin?: string; hold?: boolean }
+export type CutsceneAnim = string | { name: string; offset?: number; source?: string; skin?: string; hold?: boolean; loop?: boolean }
 export type CutsceneComposite = (CutsceneAnim | CutsceneAnim[])[]
 export type CutsceneCompositeDefinition = {
   name?: string
@@ -87,6 +87,42 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
       composite: [[
         "loop_2_Belt",
         "loop_2",
+      ]]
+    }
+  ],
+  "067104": [
+    {
+      name: "cut_A_all",
+      composite: [[
+        "cut_A_front_body",
+        "cut_A",
+        "cut_A_front_arm",
+        { name: "cut_A_curtain", loop: true },
+      ]]
+    },
+    {
+      name: "loop_1_all",
+      composite: [[
+        "loop_1_front_body",
+        "loop_1",
+        "loop_1_front_arm",
+        { name: "cut_A_curtain", loop: true },
+      ]]
+    },
+        {
+      name: "cut_A_no_curtain",
+      composite: [[
+        "cut_A_front_body",
+        "cut_A",
+        "cut_A_front_arm",
+      ]]
+    },
+    {
+      name: "loop_1_no_curtain",
+      composite: [[
+        "loop_1_front_body",
+        "loop_1",
+        "loop_1_front_arm",
       ]]
     }
   ]

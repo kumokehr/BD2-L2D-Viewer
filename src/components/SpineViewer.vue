@@ -152,6 +152,8 @@ type CompositeSegment = {
   skin?: string
   hold?: boolean
   holdUntil?: number
+  loop?: boolean
+  loopUntil?: number
 }
 type ResolvedCutsceneComposite = { name: string; mapping: CutsceneComposite }
 type CompositeOverlayInstance = {
@@ -555,6 +557,10 @@ function getAnimSpecHold(spec: CutsceneAnim) {
   return typeof spec === 'string' ? false : spec.hold === true
 }
 
+function getAnimSpecLoop(spec: CutsceneAnim) {
+  return typeof spec === 'string' ? false : spec.loop === true
+}
+
 function getSpineAssetRoot() {
   return import.meta.env.DEV ? 'src/assets/spines' : 'assets/spines'
 }
@@ -679,14 +685,21 @@ function buildCompositeSchedule(
         const source = getAnimSpecSource(animSpec)
         const skin = getAnimSpecSkin(animSpec)
         const hold = getAnimSpecHold(animSpec)
+        const loop = getAnimSpecLoop(animSpec)
         const duration = getCompositeSegmentDuration(state, externalAssets, name, source)
         const start = phaseStart + offsetValue
         if (duration + offsetValue > longest) longest = duration + offsetValue
-        return { track: index, start, duration, name, additive: true, source, skin, hold }
+        return { track: index, start, duration, name, additive: true, source, skin, hold, loop }
       })
       const phaseEnd = phaseStart + longest
       phaseSegments.forEach(segment => {
-        schedule.push(segment.hold ? { ...segment, holdUntil: phaseEnd } : segment)
+        schedule.push(
+          segment.loop
+            ? { ...segment, loopUntil: phaseEnd }
+            : segment.hold
+              ? { ...segment, holdUntil: phaseEnd }
+              : segment,
+        )
       })
       phaseStart += longest
     } else {
@@ -695,9 +708,10 @@ function buildCompositeSchedule(
       const source = getAnimSpecSource(segment)
       const skin = getAnimSpecSkin(segment)
       const hold = getAnimSpecHold(segment)
+      const loop = getAnimSpecLoop(segment)
       const duration = getCompositeSegmentDuration(state, externalAssets, name, source)
       const start = phaseStart + offsetValue
-      schedule.push({ track: 0, start, duration, name, additive: false, source, skin, hold })
+      schedule.push({ track: 0, start, duration, name, additive: false, source, skin, hold, loop })
       phaseStart += Math.max(duration + offsetValue, 0)
     }
   }
@@ -707,9 +721,9 @@ function buildCompositeSchedule(
 }
 
 function getCompositeSegmentEnd(segment: CompositeSegment, includeHold = true) {
-  return includeHold && typeof segment.holdUntil === 'number'
-    ? segment.holdUntil
-    : segment.start + segment.duration
+  if (includeHold && typeof segment.loopUntil === 'number') return segment.loopUntil
+  if (includeHold && typeof segment.holdUntil === 'number') return segment.holdUntil
+  return segment.start + segment.duration
 }
 
 async function scheduleCompositeTimeline(p: SpinePlayer, mapping: CutsceneComposite, seekToSeconds = 0) {
@@ -751,7 +765,10 @@ function applySegmentsToState(
   if (hideWhenOutOfRange && time < current.start - EPS) {
     return
   }
-  const currentTime = Math.max(0, Math.min(current.duration, time - current.start))
+  const elapsed = Math.max(0, time - current.start)
+  const currentTime = current.loop && current.duration > 0
+    ? elapsed % current.duration
+    : Math.min(current.duration, elapsed)
   const entry = state.setAnimation(0, current.name, false)
   if (entry) {
     entry.mixDuration = 0
