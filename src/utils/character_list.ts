@@ -446,7 +446,7 @@ export default {
   },
   "003392": {
     "spine": "char003392",
-    "cutscene": "",
+    "cutscene": "cutscene_char003392",
     "dating": ""
   },
   "003401": {
@@ -716,7 +716,7 @@ export default {
   },
   "060804": {
     "spine": "char060804",
-    "cutscene": "",
+    "cutscene": "cutscene_char060804",
     "dating": ""
   },
   "061001": {
