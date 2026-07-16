@@ -761,7 +761,7 @@ export default {
   },
   "061306": {
     "spine": "char061306",
-    "cutscene": "",
+    "cutscene": "cutscene_char061306",
     "dating": ""
   },
   "061402": {
@@ -1075,6 +1075,16 @@ export default {
   },
   "npc400098": {
     "spine": "npc400098",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400100": {
+    "spine": "npc400100",
+    "cutscene": "",
+    "dating": ""
+  },
+  "npc400123": {
+    "spine": "npc400123",
     "cutscene": "",
     "dating": ""
   },
