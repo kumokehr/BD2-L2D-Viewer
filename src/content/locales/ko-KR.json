@@ -271,6 +271,10 @@
     "charName": "실비아",
     "costumeName": "비키니 에이전트"
   },
+  "001092": {
+    "charName": "실비아",
+    "costumeName": "홍련"
+  },
   "001101": {
     "charName": "테레제",
     "costumeName": "파괴의 천사"
@@ -563,6 +567,10 @@
     "charName": "헬레나",
     "costumeName": "B급 아이돌"
   },
+  "061003": {
+    "charName": "헬레나",
+    "costumeName": "객잔의 햇살"
+  },
   "061092": {
     "charName": "헬레나",
     "costumeName": "라이징 스타"
@@ -590,6 +598,10 @@
   "061306": {
     "charName": "달비",
     "costumeName": "트릭키 러버"
+  },
+  "061392": {
+    "charName": "달비",
+    "costumeName": "호접몽"
   },
   "061402": {
     "charName": "제니스",
@@ -631,6 +643,10 @@
     "charName": "유리",
     "costumeName": "컴백 아이돌"
   },
+  "065193": {
+    "charName": "유리",
+    "costumeName": "영원한 마스코트"
+  },
   "065802": {
     "charName": "나르타스",
     "costumeName": "무명도사"
@@ -670,6 +686,10 @@
   "066906": {
     "charName": "글레이시아",
     "costumeName": "선도부"
+  },
+  "066907": {
+    "charName": "글레이시아",
+    "costumeName": "천수의 계승자"
   },
   "067002": {
     "charName": "벤타나",

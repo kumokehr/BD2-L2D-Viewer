@@ -271,6 +271,10 @@
     "charName": "席比雅",
     "costumeName": "比基尼特工"
   },
+  "001092": {
+    "charName": "席比雅",
+    "costumeName": "红莲"
+  },
   "001101": {
     "charName": "泰瑞丝",
     "costumeName": "毁灭天使"
@@ -563,6 +567,10 @@
     "charName": "海伦娜",
     "costumeName": "B级偶像"
   },
+  "061003": {
+    "charName": "海伦娜",
+    "costumeName": "客栈晴晖"
+  },
   "061092": {
     "charName": "海伦娜",
     "costumeName": "新星"
@@ -590,6 +598,10 @@
   "061306": {
     "charName": "达非",
     "costumeName": "机智恋人"
+  },
+  "061392": {
+    "charName": "达非",
+    "costumeName": "蝶梦"
   },
   "061402": {
     "charName": "杰尼斯",
@@ -631,6 +643,10 @@
     "charName": "尤里",
     "costumeName": "回归偶像"
   },
+  "065193": {
+    "charName": "尤里",
+    "costumeName": "永远的吉祥物"
+  },
   "065802": {
     "charName": "纳罗达斯",
     "costumeName": "无名道士"
@@ -670,6 +686,10 @@
   "066906": {
     "charName": "克蕾西亚",
     "costumeName": "纪律部"
+  },
+  "066907": {
+    "charName": "克蕾西亚",
+    "costumeName": "天守传人"
   },
   "067002": {
     "charName": "班塔纳",

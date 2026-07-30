@@ -271,6 +271,10 @@
     "charName": "シルヴィア",
     "costumeName": "ビキニエージェント"
   },
+  "001092": {
+    "charName": "シルヴィア",
+    "costumeName": "紅蓮"
+  },
   "001101": {
     "charName": "テレーゼ",
     "costumeName": "破壊の天使"
@@ -563,6 +567,10 @@
     "charName": "ヘレナ",
     "costumeName": "B級アイドル"
   },
+  "061003": {
+    "charName": "ヘレナ",
+    "costumeName": "客桟の陽光"
+  },
   "061092": {
     "charName": "ヘレナ",
     "costumeName": "ライジング・スター"
@@ -590,6 +598,10 @@
   "061306": {
     "charName": "キュウビ",
     "costumeName": "トリッキー・ラヴァー"
+  },
+  "061392": {
+    "charName": "キュウビ",
+    "costumeName": "胡蝶の夢"
   },
   "061402": {
     "charName": "ジェニス",
@@ -631,6 +643,10 @@
     "charName": "ユリ",
     "costumeName": "カムバックアイドル"
   },
+  "065193": {
+    "charName": "ユリ",
+    "costumeName": "永遠のマスコット"
+  },
   "065802": {
     "charName": "ナルタス",
     "costumeName": "名も無き道士"
@@ -670,6 +686,10 @@
   "066906": {
     "charName": "グレイシア",
     "costumeName": "風紀委員会"
+  },
+  "066907": {
+    "charName": "グレイシア",
+    "costumeName": "天守の継承者"
   },
   "067002": {
     "charName": "ヴェンタナ",

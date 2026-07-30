@@ -349,6 +349,11 @@ export default {
     "dating": "illust_dating8",
     "datingUsesTracks": true
   },
+  "001092": {
+    "spine": "char001092",
+    "cutscene": "cutscene_char001092",
+    "dating": ""
+  },
   "001101": {
     "spine": "char001101",
     "cutscene": "cutscene_char001101",
@@ -729,6 +734,11 @@ export default {
     "cutscene": "cutscene_char061002",
     "dating": ""
   },
+  "061003": {
+    "spine": "char061003",
+    "cutscene": "",
+    "dating": ""
+  },
   "061092": {
     "spine": "char061092",
     "cutscene": "cutscene_char061092_A",
@@ -762,6 +772,11 @@ export default {
   "061306": {
     "spine": "char061306",
     "cutscene": "cutscene_char061306",
+    "dating": ""
+  },
+  "061392": {
+    "spine": "char061392",
+    "cutscene": "",
     "dating": ""
   },
   "061402": {
@@ -816,6 +831,13 @@ export default {
     "cutscene": "cutscene_char065103",
     "dating": ""
   },
+  "065193": {
+    "spine": "char065193",
+    "cutscene": "cutscene_char065193",
+    "dating": "illust_dating21",
+    "datingHasNoBg": false,
+    "datingUsesTracks": true
+  },
   "065802": {
     "spine": "char065802",
     "cutscene": "cutscene_char065802",
@@ -866,6 +888,11 @@ export default {
   "066906": {
     "spine": "char066906",
     "cutscene": "cutscene_char066906",
+    "dating": ""
+  },
+  "066907": {
+    "spine": "char066907",
+    "cutscene": "cutscene_char066907",
     "dating": ""
   },
   "067002": {

@@ -68,8 +68,8 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
     {
       "name": "B_cut_all",
       "composite": [[
-        { name: "panties_black", hold: true},
-        { name: "panties_white", hold: true},
+        { name: "panties_black", hold: true },
+        { name: "panties_white", hold: true },
         "B_cut",
       ]]
     }
@@ -109,7 +109,7 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
         { name: "cut_A_curtain", loop: true },
       ]]
     },
-        {
+    {
       name: "cut_A_no_curtain",
       composite: [[
         "cut_A_front_body",
@@ -123,6 +123,96 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
         "loop_1_front_body",
         "loop_1",
         "loop_1_front_arm",
+      ]]
+    }
+  ],
+  "001092": [
+    {
+      name: "cut_A_all",
+      composite: [[
+        "cut_A_sword",
+        "cut_A",
+      ]]
+    },
+    {
+      name: "cut_B_all",
+      composite: [[
+        "cut_B_water",
+        "cut_B_snake",
+        "cut_B_sword",
+        "cut_B",
+      ]]
+    },
+    {
+      name: "loop_1_all",
+      composite: [[
+        "loop_1_sword",
+        "loop_1",
+      ]]
+    },
+    {
+      name: "loop_2_all",
+      composite: [[
+        "loop_2_bg",
+        "loop_2",
+      ]]
+    }
+  ],
+  "065193": [
+    {
+      name: "cut_A_all",
+      composite: [[
+        "cut_A_Hair_back",
+        "cut_A",
+        "cut_A_AD",
+      ]]
+    },
+    {
+      name: "cut_B_all",
+      composite: [[
+        "cut_B",
+        "cut_B_Joystick",
+      ]]
+    },
+    {
+      name: "loop_all",
+      composite: [[
+        "loop_Hair_back",
+        "loop",
+      ]]
+    },
+    {
+      name: "loop_2_all",
+      composite: [[
+        "loop_2",
+        "loop_2_Joystick",
+      ]]
+    }
+  ],
+  "066907": [
+    {
+      name: "cut_A_all",
+      composite: [[
+        "cut_A_tail",
+        "cut_A_waterdrop",
+        "cut_A",
+        "cut_A_dragon",
+      ]]
+    },
+    {
+      name: "cut_B_all",
+      composite: [[
+        "cut_B",
+        "cut_B_slap",
+      ]]
+    },
+    {
+      name: "loop_all",
+      composite: [[
+        "loop_tail",
+        "loop_waterdrop",
+        "loop",
+        "loop_dragon",
       ]]
     }
   ]
