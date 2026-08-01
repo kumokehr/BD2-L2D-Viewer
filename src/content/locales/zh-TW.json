@@ -383,6 +383,10 @@
     "charName": "奧利維爾",
     "costumeName": "引退的傳奇"
   },
+  "003604_c": {
+    "charName": "奧利維爾",
+    "costumeName": "引退的傳奇 (Censored)"
+  },
   "003701": {
     "charName": "布萊德",
     "costumeName": "使者"
@@ -442,6 +446,10 @@
   "004201": {
     "charName": "帕萊特",
     "costumeName": "恐懼之夢"
+  },
+  "004201_c": {
+    "charName": "帕萊特",
+    "costumeName": "恐懼之夢 (Censored)"
   },
   "004202": {
     "charName": "帕萊特",
@@ -690,6 +698,10 @@
   "066907": {
     "charName": "克蕾西亞",
     "costumeName": "天守繼承者"
+  },
+  "066907_o": {
+    "charName": "克蕾西亞",
+    "costumeName": "天守繼承者 (Old Version)"
   },
   "067002": {
     "charName": "班塔納",

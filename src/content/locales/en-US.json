@@ -383,6 +383,10 @@
     "charName": "Olivier",
     "costumeName": "Retired Legend"
   },
+  "003604_c": {
+    "charName": "Olivier",
+    "costumeName": "Retired Legend (Censored)"
+  },
   "003701": {
     "charName": "Blade",
     "costumeName": "Apostle"
@@ -442,6 +446,10 @@
   "004201": {
     "charName": "Palette",
     "costumeName": "Shattered Dream"
+  },
+  "004201_c": {
+    "charName": "Palette",
+    "costumeName": "Shattered Dream (Censored)"
   },
   "004202": {
     "charName": "Palette",
@@ -690,6 +698,10 @@
   "066907": {
     "charName": "Glacia",
     "costumeName": "Heavenly Guardian Successor"
+  },
+  "066907_o": {
+    "charName": "Glacia",
+    "costumeName": "Heavenly Guardian Successor (Old Version)"
   },
   "067002": {
     "charName": "Ventana",

@@ -383,6 +383,10 @@
     "charName": "올리비에",
     "costumeName": "은퇴한 전설"
   },
+  "003604_c": {
+    "charName": "올리비에",
+    "costumeName": "은퇴한 전설 (Censored)"
+  },
   "003701": {
     "charName": "블레이드",
     "costumeName": "사도"
@@ -442,6 +446,10 @@
   "004201": {
     "charName": "팔레트",
     "costumeName": "공포의 꿈"
+  },
+  "004201_c": {
+    "charName": "팔레트",
+    "costumeName": "공포의 꿈 (Censored)"
   },
   "004202": {
     "charName": "팔레트",
@@ -690,6 +698,10 @@
   "066907": {
     "charName": "글레이시아",
     "costumeName": "천수의 계승자"
+  },
+  "066907_o": {
+    "charName": "글레이시아",
+    "costumeName": "천수의 계승자 (Old Version)"
   },
   "067002": {
     "charName": "벤타나",

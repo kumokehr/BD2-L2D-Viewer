@@ -383,6 +383,10 @@
     "charName": "オリビエ",
     "costumeName": "伝説のOG"
   },
+  "003604_c": {
+    "charName": "オリビエ",
+    "costumeName": "伝説のOG (Censored)"
+  },
   "003701": {
     "charName": "ブレイド",
     "costumeName": "使徒"
@@ -442,6 +446,10 @@
   "004201": {
     "charName": "パレット",
     "costumeName": "恐怖の夢"
+  },
+  "004201_c": {
+    "charName": "パレット",
+    "costumeName": "恐怖の夢 (Censored)"
   },
   "004202": {
     "charName": "パレット",
@@ -690,6 +698,10 @@
   "066907": {
     "charName": "グレイシア",
     "costumeName": "天守の継承者"
+  },
+  "066907_o": {
+    "charName": "グレイシア",
+    "costumeName": "天守の継承者 (Old Version)"
   },
   "067002": {
     "charName": "ヴェンタナ",

@@ -383,6 +383,10 @@
     "charName": "奥利维耶",
     "costumeName": "传奇退役"
   },
+  "003604_c": {
+    "charName": "奥利维耶",
+    "costumeName": "传奇退役 (Censored)"
+  },
   "003701": {
     "charName": "布莱德",
     "costumeName": "使徒"
@@ -442,6 +446,10 @@
   "004201": {
     "charName": "帕莱特",
     "costumeName": "惊悚之梦"
+  },
+  "004201_c": {
+    "charName": "帕莱特",
+    "costumeName": "惊悚之梦 (Censored)"
   },
   "004202": {
     "charName": "帕莱特",
@@ -690,6 +698,10 @@
   "066907": {
     "charName": "克蕾西亚",
     "costumeName": "天守传人"
+  },
+  "066907_o": {
+    "charName": "克蕾西亚",
+    "costumeName": "天守传人 (Old Version)"
   },
   "067002": {
     "charName": "班塔纳",
