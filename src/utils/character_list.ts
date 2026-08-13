@@ -750,7 +750,7 @@ export default {
   },
   "061003": {
     "spine": "char061003",
-    "cutscene": "",
+    "cutscene": "cutscene_char061003",
     "dating": ""
   },
   "061092": {
@@ -790,8 +790,10 @@ export default {
   },
   "061392": {
     "spine": "char061392",
-    "cutscene": "",
-    "dating": ""
+    "cutscene": "cutscene_char061392",
+    "dating": "illust_dating20",
+    "datingHasNoBg": false,
+    "datingUsesTracks": true
   },
   "061402": {
     "spine": "char061402",

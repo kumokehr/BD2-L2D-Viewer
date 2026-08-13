@@ -215,6 +215,23 @@ const cutsceneComposites: Record<string, CutsceneCompositeEntry> = {
         "loop_dragon",
       ]]
     }
+  ],
+  "061392": [
+    {
+      name: "cut_A_all",
+      composite: [[
+        "lamp",
+        "cut_A",
+      ]]
+    },
+    {
+      name: "cut_B_all",
+      composite: [[
+        "cut_B",
+        "cut_B_fire",
+        "cut_B_skirt",
+      ]]
+    }
   ]
 }
 
